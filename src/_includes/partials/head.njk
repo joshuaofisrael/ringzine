@@ -1,0 +1,44 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ (seoTitle or title) | pageTitle }}</title>
+<meta name="description" content="{{ (description or summary) | metaDescription }}">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#14211C">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https://*.google-analytics.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com https://www.googletagmanager.com; connect-src https://cloudflareinsights.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com; object-src 'none'; base-uri 'self'; form-action {% if formAction %}{{ formAction }}{% else %}'none'{% endif %}; frame-ancestors 'none'">
+{% if site.ga4MeasurementId %}<script>window.__mtmGaId={{ site.ga4MeasurementId | dump | safe }};</script>
+<script defer src="{{ '/assets/js/consent.js' | url }}"></script>{% endif %}
+{% if draft or noindex %}
+<meta name="robots" content="noindex, nofollow">
+{% else %}
+<meta name="robots" content="index, follow">
+{% endif %}
+<link rel="canonical" href="{{ page.url | absoluteUrl }}">
+<link rel="icon" href="{{ '/assets/favicon.svg' | url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/assets/logo.png' | url }}" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="{{ '/assets/logo.png' | url }}">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} RSS" href="{{ '/feed.xml' | url }}">
+<link rel="alternate" type="application/atom+xml" title="{{ site.name }} Atom" href="{{ '/atom.xml' | url }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:locale" content="{{ site.locale }}">
+<meta property="og:title" content="{{ (seoTitle or title) | pageTitle }}">
+<meta property="og:description" content="{{ (description or summary) | metaDescription }}">
+<meta property="og:url" content="{{ page.url | absoluteUrl }}">
+{% if kind == "article" and not draft %}
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="{{ page.date | isoDate }}">
+<meta property="article:section" content="{{ category }}">
+{% else %}
+<meta property="og:type" content="website">
+{% endif %}
+<meta property="og:image" content="{{ '/assets/logo.png' | absoluteUrl }}">
+<meta property="og:image:alt" content="RingZine mark: the letters RZ on a dark square with a red ring rope.">
+<meta property="og:image:width" content="192">
+<meta property="og:image:height" content="192">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ (seoTitle or title) | pageTitle }}">
+<meta name="twitter:description" content="{{ (description or summary) | metaDescription }}">
+<meta name="twitter:image" content="{{ '/assets/logo.png' | absoluteUrl }}">
+<meta name="twitter:image:alt" content="RingZine mark: the letters RZ on a dark square with a red ring rope.">
+{% structuredData %}

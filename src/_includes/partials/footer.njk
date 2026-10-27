@@ -1,0 +1,37 @@
+<footer class="site-footer">
+  <div class="road-line" aria-hidden="true"></div>
+  <div class="wrap footer-grid">
+    <nav aria-label="Coverage">
+      <h2>{% set iconName = "wwe" %}{% include "partials/section-icon.njk" %} Coverage</h2>
+      <ul>
+        {% for item in site.categories %}
+        <li><a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">{{ item.name }}</a></li>
+        {% endfor %}
+        <li><a href="{{ '/archive/' | url }}">Archive</a></li>
+      </ul>
+    </nav>
+    <nav aria-label="Company links">
+      <h2>{% set iconName = "company" %}{% include "partials/section-icon.njk" %} Company</h2>
+      <ul>
+        <li><a href="{{ '/about/' | url }}">About</a></li>
+        <li><a href="{{ '/contact/' | url }}">Contact Us</a></li>
+      </ul>
+    </nav>
+    <nav aria-label="Legal and feeds">
+      <h2>{% set iconName = "legal" %}{% include "partials/section-icon.njk" %} Legal and feeds</h2>
+      <ul>
+        <li><a href="{{ '/sources-ethics/' | url }}">Sources &amp; Ethics</a></li>
+        <li><a href="{{ '/corrections/' | url }}">Corrections</a></li>
+        <li><a href="{{ '/terms/' | url }}">Terms</a></li>
+        <li><a href="{{ '/privacy/' | url }}">Privacy</a></li>
+        <li><a href="{{ '/disclaimer/' | url }}">Disclaimer</a></li>
+        <li><a href="{{ '/copyright/' | url }}">Copyright and DMCA</a></li>
+        <li><a href="{{ '/ad-disclosure/' | url }}">Ad disclosure</a></li>
+        <li><a href="{{ '/editorial-policy/' | url }}">Editorial policy</a></li>
+        <li><button type="button" class="consent-link" data-consent-open="1">Cookie choices</button></li>
+        <li><a href="{{ '/feed.xml' | url }}">RSS</a></li>
+        <li><a href="{{ '/atom.xml' | url }}">Atom</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>

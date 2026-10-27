@@ -1,0 +1,48 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+sitemapIgnore: true
+---
+# {{ site.name | safe }}
+
+> {{ site.brandLine | safe }}
+
+{{ site.description | safe }}
+
+Search and AI crawlers may read this site. Every article is labelled Confirmed (official WWE or AEW source) or Rumor (attributed to a named outlet) and lists its sources. Cite the article URL and those sources when you rely on a story.
+
+## Pages
+
+- [Home]({{ "/" | absoluteUrl }}): Latest stories
+{% for item in site.categories %}
+- [{{ item.name | safe }}]({{ ("/topics/" ~ item.slug ~ "/") | absoluteUrl }}): {{ item.hubIntro | safe }}
+{% endfor %}
+- [Archive]({{ "/archive/" | absoluteUrl }}): Every published story
+- [About]({{ "/about/" | absoluteUrl }}): What RingZine covers and how
+- [Sources & Ethics]({{ "/sources-ethics/" | absoluteUrl }}): Editorial standards
+- [Editorial policy]({{ "/editorial-policy/" | absoluteUrl }}): What the Confirmed and Rumor labels mean
+- [Corrections]({{ "/corrections/" | absoluteUrl }}): How a factual error is corrected
+- [Contact Us]({{ "/contact/" | absoluteUrl }}): Message RingZine
+- [Terms of use]({{ "/terms/" | absoluteUrl }}): Rules for using the site
+- [Privacy]({{ "/privacy/" | absoluteUrl }}): How the site handles information
+- [Disclaimer]({{ "/disclaimer/" | absoluteUrl }}): What the reporting is and is not
+
+## Feeds
+
+- [RSS]({{ "/feed.xml" | absoluteUrl }}): Latest published articles
+- [Atom]({{ "/atom.xml" | absoluteUrl }}): Latest published articles
+- [Sitemap]({{ "/sitemap.xml" | absoluteUrl }}): Pages and articles
+{% set freshNews = collections.publishedPosts | freshNewsPosts %}
+{% if freshNews.length -%}
+- [News sitemap]({{ "/news-sitemap.xml" | absoluteUrl }}): Articles from the last two days
+{% endif %}
+
+## Published articles
+
+{% if collections.publishedPosts.length %}
+{% for post in collections.publishedPosts %}
+- [{{ post.data.title | safe }}]({{ post.url | absoluteUrl }}): {{ post.data.summary | safe }}
+{% endfor %}
+{% else %}
+No article has been published yet.
+{% endif %}

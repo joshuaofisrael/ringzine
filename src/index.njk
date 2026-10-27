@@ -1,0 +1,87 @@
+---
+layout: layouts/base.njk
+kind: home
+permalink: /
+updatedAt: 2026-10-27
+---
+<header class="masthead photo-hero">
+  <div class="photo-hero-media">
+    {% set photo = site.homePhoto.src %}
+    {% set imageAlt = site.homePhoto.alt %}
+    {% set imageLoading = "eager" %}
+    {% set imagePriority = "high" %}
+    {% include "partials/photo.njk" %}
+  </div>
+  <div class="photo-hero-shade" aria-hidden="true"></div>
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <p class="eyebrow">WWE and AEW news</p>
+      <h1>{{ site.name }}</h1>
+      <p class="tagline">{{ site.tagline }}</p>
+      <p class="brand-line">{{ site.brandLine }}</p>
+    </div>
+    <div class="hero-panel">
+      <p class="panel-kicker">Every story labelled</p>
+      <p class="panel-note"><span class="status-label status-confirmed">Confirmed</span> official source</p>
+      <p class="panel-note"><span class="status-label status-rumor">Rumor</span> attributed to a named outlet</p>
+    </div>
+  </div>
+</header>
+<section class="desk-board wrap" aria-labelledby="desks-heading">
+  <h2 id="desks-heading" class="section-heading">{% set iconName = "batteries" %}{% include "partials/section-icon.njk" %} Promotions</h2>
+  <div class="desk-list desk-photo-list">
+    {% for item in site.categories %}
+    <a class="desk-card desk-photo-card" href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">
+      <figure class="desk-photo">
+        {% set photo = item.photo %}
+        {% set imageAlt = item.photoAlt %}
+        {% set imageLoading = "lazy" %}
+        {% set imagePriority = false %}
+        {% include "partials/photo.njk" %}
+      </figure>
+      <span class="desk-card-top">{% set iconName = item.slug %}{% include "partials/section-icon.njk" %}<strong>{{ item.name }}</strong></span>
+      <span class="desk-photo-copy">{{ item.description }}</span>
+      
+    </a>
+    {% endfor %}
+  </div>
+</section>
+<div class="wrap">
+  <div class="home-grid">
+    <section aria-labelledby="latest-heading">
+      <h2 id="latest-heading" class="section-heading">{% set iconName = "bolt" %}{% include "partials/section-icon.njk" %} Latest</h2>
+      {% set stories = collections.posts | limit(20) %}
+      {% if stories and stories.length %}
+      {% set storyHeading = "h3" %}
+      {% include "partials/story-list.njk" %}
+      {% else %}
+      <p class="empty">No story has been published yet.</p>
+      {% endif %}
+      {% if collections.posts.length > 20 %}
+      <p><a href="{{ '/archive/' | url }}">All stories</a></p>
+      {% endif %}
+    </section>
+    <aside class="home-rail">
+            <section aria-labelledby="publishing-heading">
+      <h2 id="publishing-heading">{% set iconName = "policy" %}{% include "partials/section-icon.njk" %} How we report</h2>
+      <ol class="process">
+        <li>The answer comes first: who won, what changed, what is next.</li>
+        <li>Each claim links the source it came from.</li>
+        <li>Confirmed means an official WWE or AEW source. Rumor means a named outlet reported it.</li>
+        <li>Read the full <a href="{{ '/editorial-policy/' | url }}">editorial policy</a>.</li>
+      </ol>
+      </section>
+    </aside>
+  </div>
+</div>
+<section class="faq wrap" aria-labelledby="faq-heading">
+  <h2 id="faq-heading" class="section-heading">{% set iconName = "policy" %}{% include "partials/section-icon.njk" %} Questions</h2>
+  <div class="faq-list">
+    {% for item in faq %}
+    <article class="faq-item">
+      <h3>{{ item.question }}</h3>
+      <p>{% for part in item.parts %}{% if part.href %}<a href="{{ part.href | url }}">{{ part.text }}</a>{% else %}{{ part.text }}{% endif %}{% endfor %}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>

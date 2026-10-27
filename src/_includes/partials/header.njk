@@ -1,0 +1,35 @@
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-bar">
+    <a class="brand" href="{{ '/' | url }}"{% if page.url == ("/" | url) %} aria-current="page"{% endif %}>
+      {% include "partials/mark.njk" %}
+      <span class="brand-name">{{ site.name }}</span>
+    </a>
+    <p class="header-charge"><span>Results first</span></p>
+    <nav class="utility" aria-label="Company">
+      <input class="utility-toggle" id="utility-menu" type="checkbox">
+      <label class="utility-toggle-label" for="utility-menu">
+        <span class="utility-closed">Menu</span>
+        <span class="utility-open">Close</span>
+      </label>
+      <ul class="utility-panel">
+        <li><a href="{{ '/about/' | url }}"{% if page.url == ("/about/" | url) %} aria-current="page"{% endif %}>About</a></li>
+        <li><a href="{{ '/contact/' | url }}"{% if page.url == ("/contact/" | url) %} aria-current="page"{% endif %}>Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <nav class="topics" aria-label="Sections">
+    <div class="topic-scroller wrap">
+      <ul class="topic-list">
+        {% for item in site.categories %}
+        <li>
+          <a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}"{% if (desk and desk.slug == item.slug) or category == item.name %} aria-current="page"{% endif %}>{% set iconName = item.slug %}{% include "partials/section-icon.njk" %}{{ item.name }}</a>
+        </li>
+        {% endfor %}
+        <li><a href="{{ '/archive/' | url }}"{% if page.url == ("/archive/" | url) %} aria-current="page"{% endif %}>Archive</a></li>
+      </ul>
+    </div>
+  </nav>
+  {% include "partials/ticker.njk" %}
+  <div class="road-line" aria-hidden="true"></div>
+</header>

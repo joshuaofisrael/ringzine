@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+---
+{% if desk and desk.photo %}
+<figure class="category-banner">
+  {% set photo = desk.photo %}
+  {% set imageAlt = desk.photoAlt %}
+  {% set imageLoading = "eager" %}
+  {% set imagePriority = "high" %}
+  {% include "partials/photo.njk" %}
+</figure>
+{% endif %}
+<header class="page-head">
+  {% set iconName = "gauge" %}
+  {% if desk %}{% set iconName = desk.slug %}{% endif %}
+  <p class="page-kicker">{% include "partials/section-icon.njk" %} RingZine</p>
+  <h1>{{ title }}</h1>
+  {% if summary %}
+  <p class="dek">{{ summary }}</p>
+  {% endif %}
+</header>
+{{ content | safe }}

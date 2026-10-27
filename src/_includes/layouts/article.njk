@@ -1,0 +1,107 @@
+---
+layout: layouts/base.njk
+---
+<article class="story-page">
+  <header class="article-head">
+    <p class="story-kicker">
+      <a class="chip" href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{% set iconName = category | categorySlug %}{% include "partials/section-icon.njk" %}{{ category }}</a>
+      <time datetime="{{ page.date | isoDate }}">{{ page.date | displayDate }}</time>
+    </p>
+    {% if status == "rumor" %}<p class="status-note"><span class="status-label status-rumor">Rumor</span>Attributed to the outlets named below. Not confirmed by the company. <a href="{{ '/editorial-policy/' | url }}">How we label stories</a></p>{% else %}<p class="status-note"><span class="status-label status-confirmed">Confirmed</span>Backed by an official source linked below. <a href="{{ '/editorial-policy/' | url }}">How we label stories</a></p>{% endif %}
+    <h1>{{ title }}</h1>
+    <p class="byline">By <a href="{{ '/about/' | url }}">{{ author or site.author }}</a></p>
+    {% if label == "analysis" %}
+    <p class="piece-label">Analysis</p>
+    {% elif label == "speculation" %}
+    <p class="piece-label">Speculation</p>
+    {% elif label == "opinion" or opinion %}
+    <p class="piece-label">Opinion</p>
+    {% endif %}
+    {% if summary %}
+    <p class="dek">{{ summary }}</p>
+    {% endif %}
+    <p class="last-updated">Last updated <time datetime="{{ (updatedAt or page.date) | isoDate }}">{{ (updatedAt or page.date) | displayDate }}</time></p>
+  </header>
+  {% if disclaimer == "health" %}
+  <p class="article-disclaimer" role="note">This is not health or medical advice. It is a report. A decision about your own health belongs with a qualified clinician.</p>
+  {% elif disclaimer == "legal" %}
+  <p class="article-disclaimer" role="note">This is not legal advice. It is a report. A decision about your own situation belongs with a lawyer licensed where you live.</p>
+  {% elif disclaimer == "financial" %}
+  <p class="article-disclaimer" role="note">This is not financial, tax, or investment advice. It is a report. Confirm the figures with the cited source and a qualified adviser.</p>
+  {% endif %}
+  {% if hero and hero.src %}
+  <figure class="story-figure story-hero{% if not (hero.src | imageFilesReady) %} is-slot{% endif %}">
+    {% set srcBase = hero.src %}
+    {% set imageAlt = hero.alt %}
+    {% set imageWidth = hero.width %}
+    {% set imageHeight = hero.height %}
+    {% set imageLoading = "eager" %}
+    {% set imagePriority = "high" %}
+    {% include "partials/picture.njk" %}
+    {% set heroCaption = hero.caption | figureCaption %}
+    {% if heroCaption %}
+    <figcaption><span class="figure-caption">{{ heroCaption }}</span></figcaption>
+    {% endif %}
+  </figure>
+  {% endif %}
+  {% include "partials/story-figure.njk" %}
+  <div class="prose">
+    {{ content | insertBodyImages(images) | safe }}
+  </div>
+  {% if tags and tags.length %}
+  <section class="tag-block" aria-labelledby="tags-heading">
+    <h2 id="tags-heading">Tags</h2>
+    <ul class="tag-list">
+      {% for tag in tags %}
+      {% if tag != "post" %}
+      <li>
+        {% if collections.publicTagList and (tag in collections.publicTagList) %}
+        <a href="{{ ('/tags/' ~ (tag | slugify) ~ '/') | url }}">{{ tag }}</a>
+        {% else %}
+        <span>{{ tag }}</span>
+        {% endif %}
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+  <section class="sources" aria-labelledby="sources-heading">
+    <h2 id="sources-heading">Sources</h2>
+    {% if sources and sources.length %}
+    <ol>
+      {% for source in sources %}
+      {% set href = source.url | safeHttpUrl %}
+      <li>
+        {% if href %}
+        <a href="{{ href }}">{{ source.title }}<span class="visually-hidden"> (external source)</span></a>
+        {% else %}
+        {{ source.title }}
+        {% endif %}
+        <span class="source-meta">
+          <span class="source-publisher">{{ source.publisher }}</span>
+          <span aria-hidden="true"> · </span>
+          <time datetime="{{ source.date | isoDate }}">{{ source.date | displayDate }}</time>
+        </span>
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}
+    <p>This draft has no sources yet. Add a non-empty sources list before publishing. The production build fails without one.</p>
+    {% endif %}
+  </section>
+  {% set related = collections.posts | relatedStories(category, page.url, 5) %}
+  <section class="related" aria-labelledby="related-heading">
+    <h2 id="related-heading">Related stories</h2>
+    <p>More from the <a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} coverage</a>.</p>
+    {% if related.length %}
+    <ul>
+      {% for post in related %}
+      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No other published story is in {{ category }}.</p>
+    {% endif %}
+  </section>
+</article>
