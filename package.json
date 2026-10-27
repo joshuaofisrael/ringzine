@@ -11,7 +11,9 @@
     "build": "eleventy",
     "build:preview": "ELEVENTY_ENV=development eleventy --output=_site-preview",
     "indexnow": "node scripts/ping-indexnow.js",
-    "test": "node --test"
+    "test": "node --test",
+    "legal-hold": "node scripts/legal-hold.js check src/content/posts",
+    "deploy": "bash scripts/deploy.sh"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.7",

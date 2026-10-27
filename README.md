@@ -60,3 +60,7 @@ The contact form posts to FormSubmit and returns visitors to `/contact/thanks/`.
 ## Deploy
 
 Pushing to `main` runs the Pages workflow. The custom domain is set by the root `CNAME` file (ringzine.com).
+
+## Legal hold (HOLD_REVIEW)
+
+`scripts/deploy.sh` (`npm run deploy`) is the only publish path. It, the Eleventy build and CI all run `lib/legal-hold.js`: any published post that trips a JI Ventures hold rule fails the build. Hold a post with `node scripts/legal-hold.js hold <file> "why"`, which makes it a `draft: true`, `review: HOLD_REVIEW` file and appends one line to `/workspace/content-review/queue.jsonl`. It can be published again only when `content-review/approvals.jsonl` holds Joshua's approval of its exact sha256. Image licence records live in `content-review/image-licenses.json`.

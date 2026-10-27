@@ -1,11 +1,19 @@
 ---
-title: "Stephanie Vaquer not medically cleared for Raw: what WWE said and what reports say"
-date: 2026-10-27
-updatedAt: 2026-10-27
+title: >-
+  Stephanie Vaquer not medically cleared for Raw: what WWE said and what reports
+  say
+date: 2026-10-27T00:00:00.000Z
+updatedAt: 2026-10-27T00:00:00.000Z
 category: WWE
 status: rumor
-summary: "WWE confirmed Stephanie Vaquer was not medically cleared to wrestle Becky Lynch on Raw. Reports that the cause is an ankle injury from Money in the Bank come from Wrestling Inc, not WWE."
-description: "Stephanie Vaquer was not medically cleared for Raw on October 26, 2026, WWE said. Wrestling Inc reports an ankle injury from Money in the Bank. WWE has not given a reason."
+summary: >-
+  WWE confirmed Stephanie Vaquer was not medically cleared to wrestle Becky
+  Lynch on Raw. Reports that the cause is an ankle injury from Money in the Bank
+  come from Wrestling Inc, not WWE.
+description: >-
+  Stephanie Vaquer was not medically cleared for Raw on October 26, 2026, WWE
+  said. Wrestling Inc reports an ankle injury from Money in the Bank. WWE has
+  not given a reason.
 tags:
   - WWE Raw
   - Stephanie Vaquer
@@ -13,26 +21,39 @@ tags:
   - Injury news
 hero:
   src: vaquer-1026-hero
-  alt: "Dark RingZine title card reading Vaquer not cleared with an orange Rumor badge above red, white, and blue ring ropes"
+  alt: >-
+    Dark RingZine title card reading Vaquer not cleared with an orange Rumor
+    badge above red, white, and blue ring ropes
   width: 1280
   height: 720
 sources:
-  - title: "Raw results, Oct. 26, 2026"
-    url: "https://www.wwe.com/shows/raw/2026-10-26/results"
-    publisher: "WWE"
-    date: 2026-10-26
-  - title: "Stephanie Vaquer Not Cleared, Becky Lynch To Challenge For Women's Title On WWE Raw"
-    url: "https://www.wrestlinginc.com/2297838/wwe-raw-stephanie-vaquer-not-cleared-becky-lynch-womens-title-liv-morgan/"
-    publisher: "Wrestling Inc"
-    date: 2026-10-26
-  - title: "Stephanie Vaquer Potentially Unavailable For No. 1 Contender's Match On WWE Raw"
-    url: "https://www.wrestlinginc.com/2297807/stephanie-vaquer-unavailable-wwe-raw-no-1-contender-becky-lynch/"
-    publisher: "Wrestling Inc"
-    date: 2026-10-26
-  - title: "Stephanie Vaquer Not Cleared, Becky Lynch Granted Women's World Title Match"
-    url: "https://www.fightful.com/wrestling/stephanie-vaquer-not-cleared-becky-lynch-granted-womens-world-title-match/"
-    publisher: "Fightful"
-    date: 2026-10-26
+  - title: 'Raw results, Oct. 26, 2026'
+    url: 'https://www.wwe.com/shows/raw/2026-10-26/results'
+    publisher: WWE
+    date: 2026-10-26T00:00:00.000Z
+  - title: >-
+      Stephanie Vaquer Not Cleared, Becky Lynch To Challenge For Women's Title
+      On WWE Raw
+    url: >-
+      https://www.wrestlinginc.com/2297838/wwe-raw-stephanie-vaquer-not-cleared-becky-lynch-womens-title-liv-morgan/
+    publisher: Wrestling Inc
+    date: 2026-10-26T00:00:00.000Z
+  - title: >-
+      Stephanie Vaquer Potentially Unavailable For No. 1 Contender's Match On
+      WWE Raw
+    url: >-
+      https://www.wrestlinginc.com/2297807/stephanie-vaquer-unavailable-wwe-raw-no-1-contender-becky-lynch/
+    publisher: Wrestling Inc
+    date: 2026-10-26T00:00:00.000Z
+  - title: >-
+      Stephanie Vaquer Not Cleared, Becky Lynch Granted Women's World Title
+      Match
+    url: >-
+      https://www.fightful.com/wrestling/stephanie-vaquer-not-cleared-becky-lynch-granted-womens-world-title-match/
+    publisher: Fightful
+    date: 2026-10-26T00:00:00.000Z
+draft: true
+review: HOLD_REVIEW
 ---
 
 **Stephanie Vaquer did not wrestle on Raw because she was not medically cleared, WWE said.** That part is confirmed. Why she was not cleared is not: WWE has given no reason, and the ankle injury explanation comes from outside reports, so this story carries a Rumor label.

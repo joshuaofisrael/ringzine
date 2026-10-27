@@ -1,0 +1,27 @@
+{
+  "collision-1024-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "crown-jewel-card-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "dynamite-1021-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "raw-1026-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "vaquer-1026-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  }
+}

@@ -39,7 +39,7 @@ sources:
 
 ## Why Lynch got the title shot
 
-Lynch was scheduled to face Stephanie Vaquer for a No. 1 contender spot. Raw General Manager Adam Pearce announced that Vaquer was not medically cleared, so Lynch went straight to a title match with Morgan, [per WWE](https://www.wwe.com/shows/raw/2026-10-26/results).
+Lynch was scheduled to face Stephanie Vaquer for a No. 1 contender spot. That match did not take place, and Raw General Manager Adam Pearce put Lynch straight into a title match with Morgan instead, [per WWE](https://www.wwe.com/shows/raw/2026-10-26/results).
 
 ## The Stratton tease
 

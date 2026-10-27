@@ -7,6 +7,7 @@ import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured
 import { figureCaption, imageFilesReady, insertBodyImages } from "./lib/article-images.js";
 import { metaDescription } from "./lib/meta-description.js";
 import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.js";
+import { formatGate, gatePostsDir } from "./lib/legal-hold.js";
 
 const pathPrefix = pathPrefixFromSiteUrl(site.url);
 const includeDrafts = process.env.ELEVENTY_ENV === "development";
@@ -141,6 +142,10 @@ export default function (eleventyConfig) {
       throw new Error(`Published articles failed the sources check:\n${formatValidationErrors(result)}`);
     }
     for (const warning of result.warnings) console.warn(`Source check warning: ${warning}`);
+    const gate = gatePostsDir(dir);
+    if (!gate.ok) {
+      throw new Error(`Legal hold gate (HOLD_REVIEW): these posts need Joshua's approval of the exact version before publishing:\n${formatGate(gate)}`);
+    }
   });
 
   return {
