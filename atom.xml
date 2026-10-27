@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-10-27T11:27:09.075Z</updated>
+  <updated>2026-10-27T19:56:26.438Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -15,17 +15,6 @@
     <published>2026-10-27T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
     <summary>WWE made Penta and Je&#39;Von Evans vs. Bron Breakker and Austin Theory for the World Tag Team Championship at Crown Jewel on November 7.</summary>
-    <category term="WWE"/>
-  </entry>
-
-  <entry>
-    <title>Stephanie Vaquer not medically cleared for Raw: what WWE said and what reports say</title>
-    <id>https://ringzine.com/articles/2026-10-27-stephanie-vaquer-not-medically-cleared/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-stephanie-vaquer-not-medically-cleared/"/>
-    <updated>2026-10-27T00:00:00.000Z</updated>
-    <published>2026-10-27T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>WWE confirmed Stephanie Vaquer was not medically cleared to wrestle Becky Lynch on Raw. Reports that the cause is an ankle injury from Money in the Bank come from Wrestling Inc, not WWE.</summary>
     <category term="WWE"/>
   </entry>
 
