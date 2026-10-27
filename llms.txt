@@ -1,0 +1,50 @@
+# RingZine
+
+> Results, news, and clearly labelled rumors from WWE and AEW.
+
+RingZine covers WWE and AEW with answer first results and news. Every story is labelled Confirmed or Rumor and links its sources.
+
+Search and AI crawlers may read this site. Every article is labelled Confirmed (official WWE or AEW source) or Rumor (attributed to a named outlet) and lists its sources. Cite the article URL and those sources when you rely on a story.
+
+## Pages
+
+- [Home](https://ringzine.com/): Latest stories
+
+- [WWE](https://ringzine.com/topics/wwe/): WWE news and results: Raw, SmackDown, and premium live events. Every story is labelled Confirmed or Rumor and links its sources.
+
+- [AEW](https://ringzine.com/topics/aew/): AEW news and results: Dynamite, Collision, and pay per views. Every story is labelled Confirmed or Rumor and links its sources.
+
+- [Archive](https://ringzine.com/archive/): Every published story
+- [About](https://ringzine.com/about/): What RingZine covers and how
+- [Sources & Ethics](https://ringzine.com/sources-ethics/): Editorial standards
+- [Editorial policy](https://ringzine.com/editorial-policy/): What the Confirmed and Rumor labels mean
+- [Corrections](https://ringzine.com/corrections/): How a factual error is corrected
+- [Contact Us](https://ringzine.com/contact/): Message RingZine
+- [Terms of use](https://ringzine.com/terms/): Rules for using the site
+- [Privacy](https://ringzine.com/privacy/): How the site handles information
+- [Disclaimer](https://ringzine.com/disclaimer/): What the reporting is and is not
+
+## Feeds
+
+- [RSS](https://ringzine.com/feed.xml): Latest published articles
+- [Atom](https://ringzine.com/atom.xml): Latest published articles
+- [Sitemap](https://ringzine.com/sitemap.xml): Pages and articles
+
+- [News sitemap](https://ringzine.com/news-sitemap.xml): Articles from the last two days
+
+
+## Published articles
+
+
+
+- [Penta and Je'Von Evans get a World Tag Team title match at Crown Jewel](https://ringzine.com/articles/2026-10-27-penta-evans-tag-title-match-crown-jewel/): WWE made Penta and Je'Von Evans vs. Bron Breakker and Austin Theory for the World Tag Team Championship at Crown Jewel on November 7.
+
+- [Stephanie Vaquer not medically cleared for Raw: what WWE said and what reports say](https://ringzine.com/articles/2026-10-27-stephanie-vaquer-not-medically-cleared/): WWE confirmed Stephanie Vaquer was not medically cleared to wrestle Becky Lynch on Raw. Reports that the cause is an ankle injury from Money in the Bank come from Wrestling Inc, not WWE.
+
+- [WWE Raw results, October 26, 2026: Sami Zayn and Liv Morgan keep their titles](https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/): Sami Zayn beat Je'Von Evans to keep the Undisputed WWE Championship, and Liv Morgan kept the Women's World Championship when Becky Lynch won by disqualification.
+
+- [AEW Collision results, October 24, 2026: FTR tie the series, women's Blood and Guts made](https://ringzine.com/articles/2026-10-25-aew-collision-results-october-24-2026/): FTR beat the Motor City Machine Guns to tie their Best of 5 series, Jay White beat Kyle O'Reilly, and AEW confirmed a women's Blood and Guts match for November 4.
+
+- [AEW Dynamite results, October 21, 2026: Dragunov wins debut, men's Blood and Guts set](https://ringzine.com/articles/2026-10-22-aew-dynamite-results-october-21-2026/): Ilja Dragunov beat Mike Bailey in his AEW debut, Queen Aminata earned a TBS title shot, and the Don Callis Family accepted a men's Blood and Guts match for November 4.
+
+

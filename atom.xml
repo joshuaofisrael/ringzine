@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RingZine</title>
+  <id>https://ringzine.com/</id>
+  <updated>2026-10-27T11:27:09.075Z</updated>
+  <link rel="self" href="https://ringzine.com/atom.xml"/>
+  <link rel="alternate" href="https://ringzine.com/"/>
+  <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Penta and Je&#39;Von Evans get a World Tag Team title match at Crown Jewel</title>
+    <id>https://ringzine.com/articles/2026-10-27-penta-evans-tag-title-match-crown-jewel/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-penta-evans-tag-title-match-crown-jewel/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE made Penta and Je&#39;Von Evans vs. Bron Breakker and Austin Theory for the World Tag Team Championship at Crown Jewel on November 7.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Stephanie Vaquer not medically cleared for Raw: what WWE said and what reports say</title>
+    <id>https://ringzine.com/articles/2026-10-27-stephanie-vaquer-not-medically-cleared/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-stephanie-vaquer-not-medically-cleared/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE confirmed Stephanie Vaquer was not medically cleared to wrestle Becky Lynch on Raw. Reports that the cause is an ankle injury from Money in the Bank come from Wrestling Inc, not WWE.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE Raw results, October 26, 2026: Sami Zayn and Liv Morgan keep their titles</title>
+    <id>https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Sami Zayn beat Je&#39;Von Evans to keep the Undisputed WWE Championship, and Liv Morgan kept the Women&#39;s World Championship when Becky Lynch won by disqualification.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW Collision results, October 24, 2026: FTR tie the series, women&#39;s Blood and Guts made</title>
+    <id>https://ringzine.com/articles/2026-10-25-aew-collision-results-october-24-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-25-aew-collision-results-october-24-2026/"/>
+    <updated>2026-10-25T00:00:00.000Z</updated>
+    <published>2026-10-25T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>FTR beat the Motor City Machine Guns to tie their Best of 5 series, Jay White beat Kyle O&#39;Reilly, and AEW confirmed a women&#39;s Blood and Guts match for November 4.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>AEW Dynamite results, October 21, 2026: Dragunov wins debut, men&#39;s Blood and Guts set</title>
+    <id>https://ringzine.com/articles/2026-10-22-aew-dynamite-results-october-21-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-22-aew-dynamite-results-october-21-2026/"/>
+    <updated>2026-10-22T00:00:00.000Z</updated>
+    <published>2026-10-22T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Ilja Dragunov beat Mike Bailey in his AEW debut, Queen Aminata earned a TBS title shot, and the Don Callis Family accepted a men&#39;s Blood and Guts match for November 4.</summary>
+    <category term="AEW"/>
+  </entry>
+
+</feed>
