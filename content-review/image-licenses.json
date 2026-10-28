@@ -23,5 +23,30 @@
     "license": "Original",
     "made_by": "RingZine, scripts/make-graphics.py title card",
     "contains_third_party_assets": false
+  },
+  "nxt-1027-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "havoc-2026-card-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "fright-night-1028-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "crown-jewel-full-card-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "raw-ratings-1019-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
   }
 }
