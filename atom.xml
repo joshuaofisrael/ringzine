@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-10-27T19:56:26.438Z</updated>
+  <updated>2026-10-28T11:18:56.263Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</title>
+    <id>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Darby Allin defends the TNT title against Josh Alexander, Persephone faces Queen Aminata for the TBS title, and FTR and the Motor City Machine Guns wrestle Match 3 tonight in St. Louis.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>NXT Halloween Havoc 2026 card and how to watch on October 31</title>
+    <id>https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Grayson Waller defends the NXT Championship against Tony D&#39;Angelo and Kelani Jordan faces Wren Sinclair at Halloween Havoc, live on The CW on Saturday, October 31.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE Crown Jewel 2026 match card: four matches set for November 7 in Riyadh</title>
+    <id>https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Roman Reigns vs. Sami Zayn and Liv Morgan vs. Chelsea Green headline Crown Jewel on November 7, but both SmackDown champions must first survive title defenses on October 30.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE NXT results, October 27, 2026: Dusty Cup finals set, Drake retains</title>
+    <id>https://ringzine.com/articles/2026-10-28-wwe-nxt-results-october-27-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-nxt-results-october-27-2026/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Noam Dar and Romeo Moreno upset The Vanity Project and will meet Hank and Tank in the Dusty Rhodes Tag Team Classic final, while Jackson Drake kept the North American title.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE Raw holds at 2.5 million Netflix views for October 19 episode</title>
+    <id>https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Netflix&#39;s weekly Top 10 lists the October 19 Raw at 2.5 million views and 4.3 million hours viewed, ninth on its global shows chart.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Penta and Je&#39;Von Evans get a World Tag Team title match at Crown Jewel</title>

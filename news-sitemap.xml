@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</news:title>
+      <news:keywords>AEW Dynamite, Darby Allin, Josh Alexander, FTR</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>NXT Halloween Havoc 2026 card and how to watch on October 31</news:title>
+      <news:keywords>NXT Halloween Havoc, Grayson Waller, Tony D&apos;Angelo, Kelani Jordan</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>WWE Crown Jewel 2026 match card: four matches set for November 7 in Riyadh</news:title>
+      <news:keywords>WWE Crown Jewel, Roman Reigns, Sami Zayn, Cody Rhodes</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-28-wwe-nxt-results-october-27-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>WWE NXT results, October 27, 2026: Dusty Cup finals set, Drake retains</news:title>
+      <news:keywords>WWE NXT, Dusty Rhodes Tag Team Classic, Jackson Drake, Halloween Havoc</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
+      <news:title>WWE Raw holds at 2.5 million Netflix views for October 19 episode</news:title>
+      <news:keywords>WWE Raw, TV ratings, Netflix</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-10-27-penta-evans-tag-title-match-crown-jewel/</loc>
     <news:news>
       <news:publication>
