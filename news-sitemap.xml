@@ -60,29 +60,5 @@
       <news:keywords>WWE Raw, TV ratings, Netflix</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-27-penta-evans-tag-title-match-crown-jewel/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
-      <news:title>Penta and Je&apos;Von Evans get a World Tag Team title match at Crown Jewel</news:title>
-      <news:keywords>WWE Crown Jewel, Penta, Je&apos;Von Evans, Bron Breakker</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-27T00:00:00Z</news:publication_date>
-      <news:title>WWE Raw results, October 26, 2026: Sami Zayn and Liv Morgan keep their titles</news:title>
-      <news:keywords>WWE Raw, Sami Zayn, Liv Morgan, Becky Lynch</news:keywords>
-    </news:news>
-  </url>
 </urlset>
 
