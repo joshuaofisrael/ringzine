@@ -48,5 +48,20 @@
     "license": "Original",
     "made_by": "RingZine, scripts/make-graphics.py title card",
     "contains_third_party_assets": false
+  },
+  "fright-night-results-hero": {
+    "license": "Original",
+    "made_by": "RingZine, original AI generated photograph of an empty ring",
+    "contains_third_party_assets": false
+  },
+  "full-gear-booking-hero": {
+    "license": "Original",
+    "made_by": "RingZine, original AI generated photograph of an empty arena",
+    "contains_third_party_assets": false
+  },
+  "last-man-standing-hero": {
+    "license": "Original",
+    "made_by": "RingZine, original AI generated photograph of ring ropes",
+    "contains_third_party_assets": false
   }
 }

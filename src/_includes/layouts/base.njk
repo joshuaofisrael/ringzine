@@ -12,6 +12,8 @@
     <div class="wrap">
       {% if draft %}
       <p class="draft-banner" role="note">Unpublished draft. This page is left out of the production site. It is not a published news report.</p>
+      {% elif scheduled %}
+      <p class="draft-banner" role="note">Scheduled. This page stays off the production site until its publish time.</p>
       {% endif %}
       {% breadcrumbNav %}
       {{ content | safe }}

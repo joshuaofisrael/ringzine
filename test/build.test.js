@@ -4,6 +4,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { test } from "node:test";
 import matter from "gray-matter";
+import { isPendingPublication } from "../lib/dates.js";
 
 const root = path.resolve(import.meta.dirname, "..");
 const bin = path.join(root, "node_modules", ".bin", "eleventy");
@@ -12,7 +13,9 @@ const LEGAL =
 const LEGAL_PAGES = ["terms", "privacy", "disclaimer", "ad-disclosure", "copyright"];
 
 function run(args, env) {
-  return spawnSync(bin, args, { cwd: root, encoding: "utf8", env: { ...process.env, ...env } });
+  const merged = { ...process.env, ...env };
+  delete merged.PUBLISH_CLOCK;
+  return spawnSync(bin, args, { cwd: root, encoding: "utf8", env: merged });
 }
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => {
@@ -85,7 +88,18 @@ test("RingZine production build", { timeout: 120000 }, () => {
   for (const name of posts) {
     const { data } = matter(fs.readFileSync(path.join(postsDir, name), "utf8"));
     if (data.draft === true) continue;
-    const page = read(`articles/${name.replace(/\.md$/, "")}/index.html`);
+    const slug = name.replace(/\.md$/, "");
+    if (isPendingPublication(data.publishAt)) {
+      assert.equal(
+        fs.existsSync(path.join(out, `articles/${slug}/index.html`)),
+        false,
+        `${name} is scheduled and must stay off the production build`,
+      );
+      assert.doesNotMatch(read("sitemap.xml"), new RegExp(slug));
+      assert.doesNotMatch(read("feed.xml"), new RegExp(slug));
+      continue;
+    }
+    const page = read(`articles/${slug}/index.html`);
     const label = data.status === "rumor" ? "Rumor" : "Confirmed";
     assert.match(page, new RegExp(`class="status-label status-${data.status}">${label}<`), `${name} label`);
     for (const s of data.sources) assert.ok(page.includes(s.url.replace(/&/g, "&amp;")) || page.includes(s.url), `${name} source ${s.url}`);

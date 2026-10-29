@@ -34,7 +34,10 @@ sources:
     url: https://...
     publisher: WWE
     date: 2026-10-26
+publishAt: "2026-10-29T11:00:00Z"  # optional UTC time. Hidden until then.
 ```
+
+`publishAt` keeps a finished story off the production site, the sitemap, and the feeds until that UTC time. `.github/workflows/scheduled-publish.yml` rebuilds and deploys at 11:00, 15:00, and 19:00 UTC, which is London time on 29 October 2026. A push to `main` also deploys, and any story whose time has already passed goes out with that build.
 
 Rules:
 
