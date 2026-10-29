@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
+      <news:title>AEW Fright Night Dynamite results, October 28, 2026: Aminata wins the TBS title</news:title>
+      <news:keywords>AEW Dynamite, Queen Aminata, Darby Allin, TBS Championship</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
+      <news:title>AEW books Ospreay vs. Fletcher for Full Gear and a Collision card</news:title>
+      <news:keywords>Full Gear, Will Ospreay, Kyle Fletcher, AEW Collision</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</loc>
     <news:news>
       <news:publication>

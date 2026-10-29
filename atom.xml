@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-10-29T08:12:07.968Z</updated>
+  <updated>2026-10-29T17:17:52.683Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Fright Night Dynamite results, October 28, 2026: Aminata wins the TBS title</title>
+    <id>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Queen Aminata beat Persephone for the TBS Championship, Darby Allin kept the TNT Championship against Josh Alexander, and the Motor City Machine Guns took Match 3 from FTR.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>AEW books Ospreay vs. Fletcher for Full Gear and a Collision card</title>
+    <id>https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Tony Khan made Will Ospreay versus Kyle Fletcher official for the AEW World Championship at Full Gear. Saturday&#39;s Collision has a posted card, and a women&#39;s Blood and Guts match is set.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</title>
