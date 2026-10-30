@@ -63,5 +63,30 @@
     "license": "Original",
     "made_by": "RingZine, original AI generated photograph of ring ropes",
     "contains_third_party_assets": false
+  },
+  "smackdown-1030-preview-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "michaels-creative-report-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "full-gear-anarchy-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "wwe-whatsapp-chat-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
+  },
+  "youngstown-1029-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
   }
 }
