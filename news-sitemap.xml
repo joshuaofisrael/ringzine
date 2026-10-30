@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>AEW Full Gear 2026 adds Anarchy in the Arena: Death Riders vs. The Cut</news:title>
+      <news:keywords>AEW Full Gear, Anarchy in the Arena, Death Riders, The Cut</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-30-shawn-michaels-expected-to-replace-bruce-prichard-wwe-report/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>Shawn Michaels expected to take Bruce Prichard&apos;s WWE creative role, report says</news:title>
+      <news:keywords>Shawn Michaels, Bruce Prichard, WWE NXT, Backstage news</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-30-wwe-smackdown-october-30-2026-preview/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>WWE SmackDown preview, October 30, 2026: Zayn vs. Williams and Green vs. Bella</news:title>
+      <news:keywords>WWE SmackDown, Sami Zayn, Trick Williams, Chelsea Green, Nikki Bella</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-30-wwe-whatsapp-the-chat-bella-twins-la-knight-november-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>WWE stars join WhatsApp&apos;s The Chat: Bella Twins and LA Knight on November 1</news:title>
+      <news:keywords>WWE business, Bella Twins, LA Knight, Cody Rhodes</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-30-wwe-youngstown-live-event-results-october-29-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
+      <news:title>WWE Youngstown live event results, October 29, 2026: Gable beats Punk, Zayn retains</news:title>
+      <news:keywords>WWE live events, Sami Zayn, CM Punk, Chad Gable</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</loc>
     <news:news>
       <news:publication>
@@ -34,66 +94,6 @@
       <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
       <news:title>How a WWE Last Man Standing match ends</news:title>
       <news:keywords>Last Man Standing, Cody Rhodes, Randy Orton, WWE Crown Jewel</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</news:title>
-      <news:keywords>AEW Dynamite, Darby Allin, Josh Alexander, FTR</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>NXT Halloween Havoc 2026 card and how to watch on October 31</news:title>
-      <news:keywords>NXT Halloween Havoc, Grayson Waller, Tony D&apos;Angelo, Kelani Jordan</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>WWE Crown Jewel 2026 match card: four matches set for November 7 in Riyadh</news:title>
-      <news:keywords>WWE Crown Jewel, Roman Reigns, Sami Zayn, Cody Rhodes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-28-wwe-nxt-results-october-27-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>WWE NXT results, October 27, 2026: Dusty Cup finals set, Drake retains</news:title>
-      <news:keywords>WWE NXT, Dusty Rhodes Tag Team Classic, Jackson Drake, Halloween Havoc</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-28T00:00:00Z</news:publication_date>
-      <news:title>WWE Raw holds at 2.5 million Netflix views for October 19 episode</news:title>
-      <news:keywords>WWE Raw, TV ratings, Netflix</news:keywords>
     </news:news>
   </url>
 </urlset>
