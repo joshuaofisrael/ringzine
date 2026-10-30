@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-10-30T11:32:47.594Z</updated>
+  <updated>2026-10-30T15:16:36.387Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -15,6 +15,17 @@
     <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
     <summary>Jon Moxley challenged The Cut to Anarchy in the Arena at Full Gear on Fright Night Dynamite. Here is the Full Gear card so far for November 14 in Phoenix.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>How an AEW Blood and Guts match works</title>
+    <id>https://ringzine.com/articles/2026-10-30-how-aew-blood-and-guts-match-works/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-how-aew-blood-and-guts-match-works/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>AEW&#39;s Blood and Guts puts two rings under one roofed cage. Wrestlers enter on a clock, there are no pinfalls, and a team wins only when an opponent submits or surrenders.</summary>
     <category term="AEW"/>
   </entry>
 
