@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</news:title>
+      <news:keywords>AEW Dynamite, TV ratings</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>AEW Fright Night Collision preview, October 31, 2026: The Cut vs. The Conglomeration</news:title>
+      <news:keywords>AEW Collision, The Cut, Triangle of Madness, Ilja Dragunov, Tommaso Ciampa</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>CM Punk vs. Kevin Owens is now No Holds Barred for the November 6 SmackDown</news:title>
+      <news:keywords>WWE SmackDown, CM Punk, Kevin Owens</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-31-wwe-crown-jewel-2026-moves-to-the-venue-riyadh/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>WWE Crown Jewel 2026 moves indoors to The Venue in Riyadh, reports say</news:title>
+      <news:keywords>WWE Crown Jewel, Backstage news, Riyadh</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
+      <news:title>WWE SmackDown results, October 30, 2026: Zayn keeps the WWE title in a No DQ match</news:title>
+      <news:keywords>WWE SmackDown, Sami Zayn, Trick Williams, Chelsea Green, Finn Bálor</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/</loc>
     <news:news>
       <news:publication>
@@ -70,42 +130,6 @@
       <news:publication_date>2026-10-30T00:00:00Z</news:publication_date>
       <news:title>WWE Youngstown live event results, October 29, 2026: Gable beats Punk, Zayn retains</news:title>
       <news:keywords>WWE live events, Sami Zayn, CM Punk, Chad Gable</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>AEW Fright Night Dynamite results, October 28, 2026: Aminata wins the TBS title</news:title>
-      <news:keywords>AEW Dynamite, Queen Aminata, Darby Allin, TBS Championship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>AEW books Ospreay vs. Fletcher for Full Gear and a Collision card</news:title>
-      <news:keywords>Full Gear, Will Ospreay, Kyle Fletcher, AEW Collision</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-29-how-a-wwe-last-man-standing-match-ends/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29T00:00:00Z</news:publication_date>
-      <news:title>How a WWE Last Man Standing match ends</news:title>
-      <news:keywords>Last Man Standing, Cody Rhodes, Randy Orton, WWE Crown Jewel</news:keywords>
     </news:news>
   </url>
 </urlset>

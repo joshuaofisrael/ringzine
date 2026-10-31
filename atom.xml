@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-10-30T22:45:25.456Z</updated>
+  <updated>2026-10-31T11:32:30.610Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</title>
+    <id>https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Wrestlenomics figures reported by Fightful put the October 28 Dynamite at 620,000 TBS viewers and a 0.14 rating among adults 18 to 49, both slightly down from the week before.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>AEW Fright Night Collision preview, October 31, 2026: The Cut vs. The Conglomeration</title>
+    <id>https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Halloween Collision from St. Louis features The Cut against The Conglomeration, an Artist of STARDOM title defense by Triangle of Madness and Ilja Dragunov against The Beast Mortos.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>CM Punk vs. Kevin Owens is now No Holds Barred for the November 6 SmackDown</title>
+    <id>https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE added a No Holds Barred stipulation to CM Punk vs. Kevin Owens on the October 30 SmackDown. The match airs Friday, November 6, the night before Crown Jewel.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE Crown Jewel 2026 moves indoors to The Venue in Riyadh, reports say</title>
+    <id>https://ringzine.com/articles/2026-10-31-wwe-crown-jewel-2026-moves-to-the-venue-riyadh/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-wwe-crown-jewel-2026-moves-to-the-venue-riyadh/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>PWInsider and F4W report that the November 7 Crown Jewel show has moved from the outdoor Riyadh Season Stadium to The Venue, also called ANB Arena, with tickets back on sale.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE SmackDown results, October 30, 2026: Zayn keeps the WWE title in a No DQ match</title>
+    <id>https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Sami Zayn beat Trick Williams in a restarted No Disqualification match, Chelsea Green retained against Nikki Bella, and Finn Bálor returned as The Demon to put Gunther through the announce table.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>AEW Full Gear 2026 adds Anarchy in the Arena: Death Riders vs. The Cut</title>
