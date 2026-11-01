@@ -118,5 +118,10 @@
     "license": "Original",
     "made_by": "RingZine, original title card made with scripts/make-graphics.py",
     "contains_third_party_assets": false
+  },
+  "collision-1031-results-hero": {
+    "license": "Original",
+    "made_by": "RingZine, scripts/make-graphics.py title card",
+    "contains_third_party_assets": false
   }
 }
