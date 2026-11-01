@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-01T10:44:38.306Z</updated>
+  <updated>2026-11-01T11:29:34.159Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Collision results, October 31, 2026: Triangle of Madness retain, Dragunov wins</title>
+    <id>https://ringzine.com/articles/2026-11-01-aew-collision-results-october-31-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-01-aew-collision-results-october-31-2026/"/>
+    <updated>2026-11-01T00:00:00.000Z</updated>
+    <published>2026-11-01T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The Triangle of Madness kept the Artist of Stardom titles against Trinity&#39;s team, Ilja Dragunov beat The Beast Mortos, and Tommaso Ciampa earned an AEW National Title shot for next week.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</title>
