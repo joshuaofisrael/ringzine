@@ -123,5 +123,15 @@
     "license": "Original",
     "made_by": "RingZine, scripts/make-graphics.py title card",
     "contains_third_party_assets": false
+  },
+  "raw-1102-preview-hero": {
+    "license": "Original",
+    "made_by": "RingZine, original AI generated photorealistic photograph of an empty wrestling ring",
+    "contains_third_party_assets": false
+  },
+  "raw-1102-preview-body": {
+    "license": "Original",
+    "made_by": "RingZine, original AI generated photorealistic photograph of an empty arena bowl",
+    "contains_third_party_assets": false
   }
 }
