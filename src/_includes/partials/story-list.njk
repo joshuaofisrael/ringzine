@@ -1,8 +1,22 @@
 {% if stories and stories.length %}
 <ul class="story-list">
   {% for post in stories %}
-  <li class="story-card">
+  <li class="story-card{% if post.data.hero and post.data.hero.src %} has-thumb{% endif %}">
     <article>
+      {% if post.data.hero and post.data.hero.src %}
+      <a class="story-card-thumb" href="{{ post.url }}" aria-hidden="true" tabindex="-1">
+        <figure class="story-card-thumb-figure{% if not (post.data.hero.src | imageFilesReady) %} is-slot{% endif %}">
+          {% set srcBase = post.data.hero.src %}
+          {% set imageAlt = post.data.hero.alt %}
+          {% set imageWidth = 320 %}
+          {% set imageHeight = 180 %}
+          {% set imageLoading = "lazy" %}
+          {% set imagePriority = false %}
+          {% include "partials/picture.njk" %}
+        </figure>
+      </a>
+      {% endif %}
+      <div class="story-card-body">
       <p class="story-kicker">
         {% if post.data.draft %}<span class="badge">Unpublished draft</span>{% endif %}
         {% if post.data.status == "rumor" %}<span class="status-label status-rumor">Rumor</span>{% else %}<span class="status-label status-confirmed">Confirmed</span>{% endif %}
@@ -15,6 +29,7 @@
       <h2 class="story-title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
       {% endif %}
       <p>{{ post.data.summary }}</p>
+      </div>
     </article>
   </li>
   {% endfor %}
