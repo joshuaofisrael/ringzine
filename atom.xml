@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-01T11:29:43.877Z</updated>
+  <updated>2026-11-02T11:31:47.101Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>WWE Raw preview, November 2, 2026: card and how to watch on Netflix</title>
+    <id>https://ringzine.com/articles/2026-11-02-wwe-raw-november-2-2026-preview/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-02-wwe-raw-november-2-2026-preview/"/>
+    <updated>2026-11-02T00:00:00.000Z</updated>
+    <published>2026-11-02T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE goes to Brooklyn for the final Raw before Crown Jewel, with Chad Gable defending the Intercontinental Championship against Ethan Page and John Cena back on the show for a special announcement.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>AEW Collision results, October 31, 2026: Triangle of Madness retain, Dragunov wins</title>

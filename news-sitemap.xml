@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-02-wwe-raw-november-2-2026-preview/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-02T00:00:00Z</news:publication_date>
+      <news:title>WWE Raw preview, November 2, 2026: card and how to watch on Netflix</news:title>
+      <news:keywords>WWE Raw, Netflix, Chad Gable, Ethan Page, John Cena, Roman Reigns, Sami Zayn</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-01-aew-collision-results-october-31-2026/</loc>
     <news:news>
       <news:publication>
@@ -10,66 +22,6 @@
       <news:publication_date>2026-11-01T00:00:00Z</news:publication_date>
       <news:title>AEW Collision results, October 31, 2026: Triangle of Madness retain, Dragunov wins</news:title>
       <news:keywords>AEW Collision, Ilja Dragunov, Tommaso Ciampa, Triangle of Madness, Blood and Guts</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
-      <news:title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</news:title>
-      <news:keywords>AEW Dynamite, TV ratings</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
-      <news:title>AEW Fright Night Collision preview, October 31, 2026: The Cut vs. The Conglomeration</news:title>
-      <news:keywords>AEW Collision, The Cut, Triangle of Madness, Ilja Dragunov, Tommaso Ciampa</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
-      <news:title>CM Punk vs. Kevin Owens is now No Holds Barred for the November 6 SmackDown</news:title>
-      <news:keywords>WWE SmackDown, CM Punk, Kevin Owens</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-31-wwe-crown-jewel-2026-moves-to-the-venue-riyadh/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
-      <news:title>WWE Crown Jewel 2026 moves indoors to The Venue in Riyadh, reports say</news:title>
-      <news:keywords>WWE Crown Jewel, Backstage news, Riyadh</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-31T00:00:00Z</news:publication_date>
-      <news:title>WWE SmackDown results, October 30, 2026: Zayn keeps the WWE title in a No DQ match</news:title>
-      <news:keywords>WWE SmackDown, Sami Zayn, Trick Williams, Chelsea Green, Finn Bálor</news:keywords>
     </news:news>
   </url>
 </urlset>
