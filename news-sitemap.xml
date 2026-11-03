@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
+      <news:title>WWE Raw results, November 2, 2026: Ethan Page wins the Intercontinental title, Cena unveils his Classic</news:title>
+      <news:keywords>WWE Raw, Ethan Page, Chad Gable, John Cena, Roman Reigns, Sami Zayn, Liv Morgan</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-02-wwe-raw-november-2-2026-preview/</loc>
     <news:news>
       <news:publication>
@@ -10,18 +22,6 @@
       <news:publication_date>2026-11-02T00:00:00Z</news:publication_date>
       <news:title>WWE Raw preview, November 2, 2026: card and how to watch on Netflix</news:title>
       <news:keywords>WWE Raw, Netflix, Chad Gable, Ethan Page, John Cena, Roman Reigns, Sami Zayn</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-01-aew-collision-results-october-31-2026/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-01T00:00:00Z</news:publication_date>
-      <news:title>AEW Collision results, October 31, 2026: Triangle of Madness retain, Dragunov wins</news:title>
-      <news:keywords>AEW Collision, Ilja Dragunov, Tommaso Ciampa, Triangle of Madness, Blood and Guts</news:keywords>
     </news:news>
   </url>
 </urlset>

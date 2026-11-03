@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-02T12:02:29.710Z</updated>
+  <updated>2026-11-03T08:29:04.514Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>WWE Raw results, November 2, 2026: Ethan Page wins the Intercontinental title, Cena unveils his Classic</title>
+    <id>https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Ethan Page beat Chad Gable for the Intercontinental Championship in Brooklyn, John Cena set the John Cena Classic for December 14 and named Cody Rhodes the first entrant, and Cruz Montana sided with The 946 against The Bloodline.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>WWE Raw preview, November 2, 2026: card and how to watch on Netflix</title>
