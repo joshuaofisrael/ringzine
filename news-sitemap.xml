@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
+      <news:title>Cruz Montana Joins The 946 in Raw Confrontation With The Bloodline</news:title>
+      <news:keywords>WWE Raw</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
+      <news:title>Ethan Page Wins Intercontinental Title From Chad Gable on November 2 Raw</news:title>
+      <news:keywords>WWE Raw</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-03-john-cena-classic-december-14-disney-world/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-03T00:00:00Z</news:publication_date>
+      <news:title>John Cena Classic Set for December 14 as WWE Plans Disney World Event</news:title>
+      <news:keywords>WWE Raw</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/</loc>
     <news:news>
       <news:publication>

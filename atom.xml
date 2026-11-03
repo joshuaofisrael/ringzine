@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-03T11:08:33.293Z</updated>
+  <updated>2026-11-03T19:57:58.010Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Cruz Montana Joins The 946 in Raw Confrontation With The Bloodline</title>
+    <id>https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Cruz Montana appeared during a Raw faction brawl and aligned with The 946 against Roman Reigns and The Bloodline.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Ethan Page Wins Intercontinental Title From Chad Gable on November 2 Raw</title>
+    <id>https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Ethan Page captured the Intercontinental Championship from Chad Gable during Monday Night Raw after a hard-fought title match in Brooklyn.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>John Cena Classic Set for December 14 as WWE Plans Disney World Event</title>
+    <id>https://ringzine.com/articles/2026-11-03-john-cena-classic-december-14-disney-world/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-john-cena-classic-december-14-disney-world/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE has announced a December 14 John Cena Classic at Disney World, part of a two-day event partnership with Disney.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>WWE Raw results, November 2, 2026: Ethan Page wins the Intercontinental title, Cena unveils his Classic</title>
