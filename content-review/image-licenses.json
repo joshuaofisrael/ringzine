@@ -133,5 +133,15 @@
     "license": "Original",
     "made_by": "RingZine, original AI generated photorealistic photograph of an empty arena bowl",
     "contains_third_party_assets": false
+  },
+  "raw-1102-results-hero": {
+    "license": "Original",
+    "made_by": "RingZine, derived from its own original AI generated photorealistic photograph of ring ropes and a turnbuckle pad",
+    "contains_third_party_assets": false
+  },
+  "raw-1102-results-body": {
+    "license": "Original",
+    "made_by": "RingZine, derived from its own original AI generated photorealistic photograph of an empty lit ring",
+    "contains_third_party_assets": false
   }
 }
