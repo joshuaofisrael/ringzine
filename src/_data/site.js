@@ -19,7 +19,7 @@ const site = {
   contactFormEndpoint: "https://formsubmit.co/4497ee41a1200e746e967998473d21da",
   indexNowKey: "8eadc25e650bf6cf04df6f0295221f48",
   // Cloudflare Web Analytics token. Empty until the ringzine.com site is added in Cloudflare.
-  cloudflareAnalyticsToken: "",
+  cloudflareAnalyticsToken: "eac63f2b5dbc4539a2d95249baab6472",
   // GA4 measurement id. consent.js loads gtag only after Accept.
   ga4MeasurementId: "G-6XNF3J2GZD",
   homePhoto: {
