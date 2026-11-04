@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-04T08:41:06.668Z</updated>
+  <updated>2026-11-04T15:47:51.386Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -15,6 +15,17 @@
     <published>2026-11-04T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
     <summary>CM Punk returns to an NXT ring tonight for the first time in more than 16 years, challenging Grayson Waller for the NXT Championship on a special Wednesday...</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>How a WarGames match works</title>
+    <id>https://ringzine.com/articles/2026-11-04-how-a-wargames-match-works/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-04-how-a-wargames-match-works/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WarGames puts two teams inside one cage built over two rings. Wrestlers enter on a timer, one side gets a numbers advantage, and the real match starts only when everyone is in. WWE&#39;s version has no roof and allows pinfalls.</summary>
     <category term="WWE"/>
   </entry>
 
