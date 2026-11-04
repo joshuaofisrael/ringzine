@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-03T19:57:58.010Z</updated>
+  <updated>2026-11-04T08:41:06.668Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</title>
+    <id>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>CM Punk returns to an NXT ring tonight for the first time in more than 16 years, challenging Grayson Waller for the NXT Championship on a special Wednesday...</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Cruz Montana Joins The 946 in Raw Confrontation With The Bloodline</title>
