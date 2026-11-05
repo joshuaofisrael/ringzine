@@ -29,7 +29,7 @@ const site = {
   year: new Date().getUTCFullYear(),
   buildTime: new Date().toISOString(),
   crawlers: [
-    "Googlebot", "Bingbot", "OAI-SearchBot", "ChatGPT-User", "GPTBot", "PerplexityBot",
+    "Googlebot", "Mediapartners-Google", "Bingbot", "OAI-SearchBot", "ChatGPT-User", "GPTBot", "PerplexityBot",
     "ClaudeBot", "Claude-SearchBot", "CCBot", "Google-Extended", "Applebot", "Applebot-Extended",
     "Bytespider", "DuckDuckBot", "YandexBot",
   ],

@@ -44,7 +44,8 @@ test("RingZine production build", { timeout: 120000 }, () => {
   const out = path.join(root, "_site");
   const read = (f) => fs.readFileSync(path.join(out, f), "utf8");
   assert.equal(read("CNAME").trim(), "ringzine.com");
-  assert.equal(fs.existsSync(path.join(out, "ads.txt")), false);
+  assert.equal(read("ads.txt").trim(), "google.com, pub-5681559774142917, DIRECT, f08c47fec0942fa0");
+  assert.match(read("robots.txt"), /User-agent: Mediapartners-Google\r?\nAllow: \//);
 
   const html = walk(out).filter((f) => f.endsWith(".html"));
   for (const file of html) {
@@ -80,6 +81,10 @@ test("RingZine production build", { timeout: 120000 }, () => {
 
   const privacy = visible(read("privacy/index.html"));
   assert.match(privacy, /Google Analytics 4/);
+  assert.match(privacy, /Google AdSense/);
+  assert.match(privacy, /third party vendors/);
+  assert.match(privacy, /cookies/);
+  assert.match(privacy, /https:\/\/adssettings\.google\.com/);
   assert.match(visible(read("terms/index.html")), /Florida/);
 
   const postsDir = path.join(root, "src/content/posts");
