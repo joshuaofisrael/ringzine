@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-05T00:05:01.415Z</updated>
+  <updated>2026-11-05T12:32:48.827Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
-
-  <entry>
-    <title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</title>
-    <id>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/"/>
-    <updated>2026-11-04T00:00:00.000Z</updated>
-    <published>2026-11-04T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>CM Punk returns to an NXT ring tonight for the first time in more than 16 years, challenging Grayson Waller for the NXT Championship on a special Wednesday...</summary>
-    <category term="WWE"/>
-  </entry>
 
   <entry>
     <title>How a WarGames match works</title>
@@ -30,24 +19,24 @@
   </entry>
 
   <entry>
-    <title>Cruz Montana Joins The 946 in Raw Confrontation With The Bloodline</title>
-    <id>https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/"/>
-    <updated>2026-11-03T00:00:00.000Z</updated>
-    <published>2026-11-03T00:00:00.000Z</published>
+    <title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</title>
+    <id>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/"/>
+    <updated>2026-11-04T00:00:00.000Z</updated>
+    <published>2026-11-04T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Cruz Montana appeared during a Raw faction brawl and aligned with The 946 against Roman Reigns and The Bloodline.</summary>
+    <summary>CM Punk returns to an NXT ring tonight for the first time in more than 16 years, challenging Grayson Waller for the NXT Championship on a special Wednesday...</summary>
     <category term="WWE"/>
   </entry>
 
   <entry>
-    <title>Ethan Page Wins Intercontinental Title From Chad Gable on November 2 Raw</title>
-    <id>https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/"/>
+    <title>WWE Raw results, November 2, 2026: Ethan Page wins the Intercontinental title, Cena unveils his Classic</title>
+    <id>https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/"/>
     <updated>2026-11-03T00:00:00.000Z</updated>
     <published>2026-11-03T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Ethan Page captured the Intercontinental Championship from Chad Gable during Monday Night Raw after a hard-fought title match in Brooklyn.</summary>
+    <summary>Ethan Page beat Chad Gable for the Intercontinental Championship in Brooklyn, John Cena set the John Cena Classic for December 14 and named Cody Rhodes the first entrant, and Cruz Montana sided with The 946 against The Bloodline.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -63,13 +52,24 @@
   </entry>
 
   <entry>
-    <title>WWE Raw results, November 2, 2026: Ethan Page wins the Intercontinental title, Cena unveils his Classic</title>
-    <id>https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-wwe-raw-results-november-2-2026/"/>
+    <title>Ethan Page Wins Intercontinental Title From Chad Gable on November 2 Raw</title>
+    <id>https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-ethan-page-intercontinental-title-chad-gable-raw/"/>
     <updated>2026-11-03T00:00:00.000Z</updated>
     <published>2026-11-03T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Ethan Page beat Chad Gable for the Intercontinental Championship in Brooklyn, John Cena set the John Cena Classic for December 14 and named Cody Rhodes the first entrant, and Cruz Montana sided with The 946 against The Bloodline.</summary>
+    <summary>Ethan Page captured the Intercontinental Championship from Chad Gable during Monday Night Raw after a hard-fought title match in Brooklyn.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Cruz Montana Joins The 946 in Raw Confrontation With The Bloodline</title>
+    <id>https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-03-cruz-montana-946-bloodline-raw-november-2/"/>
+    <updated>2026-11-03T00:00:00.000Z</updated>
+    <published>2026-11-03T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Cruz Montana appeared during a Raw faction brawl and aligned with The 946 against Roman Reigns and The Bloodline.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -96,35 +96,13 @@
   </entry>
 
   <entry>
-    <title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</title>
-    <id>https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/"/>
+    <title>WWE SmackDown results, October 30, 2026: Zayn keeps the WWE title in a No DQ match</title>
+    <id>https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/"/>
     <updated>2026-10-31T00:00:00.000Z</updated>
     <published>2026-10-31T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Wrestlenomics figures reported by Fightful put the October 28 Dynamite at 620,000 TBS viewers and a 0.14 rating among adults 18 to 49, both slightly down from the week before.</summary>
-    <category term="AEW"/>
-  </entry>
-
-  <entry>
-    <title>AEW Fright Night Collision preview, October 31, 2026: The Cut vs. The Conglomeration</title>
-    <id>https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/"/>
-    <updated>2026-10-31T00:00:00.000Z</updated>
-    <published>2026-10-31T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>Halloween Collision from St. Louis features The Cut against The Conglomeration, an Artist of STARDOM title defense by Triangle of Madness and Ilja Dragunov against The Beast Mortos.</summary>
-    <category term="AEW"/>
-  </entry>
-
-  <entry>
-    <title>CM Punk vs. Kevin Owens is now No Holds Barred for the November 6 SmackDown</title>
-    <id>https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/"/>
-    <updated>2026-10-31T00:00:00.000Z</updated>
-    <published>2026-10-31T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>WWE added a No Holds Barred stipulation to CM Punk vs. Kevin Owens on the October 30 SmackDown. The match airs Friday, November 6, the night before Crown Jewel.</summary>
+    <summary>Sami Zayn beat Trick Williams in a restarted No Disqualification match, Chelsea Green retained against Nikki Bella, and Finn Bálor returned as The Demon to put Gunther through the announce table.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -140,24 +118,35 @@
   </entry>
 
   <entry>
-    <title>WWE SmackDown results, October 30, 2026: Zayn keeps the WWE title in a No DQ match</title>
-    <id>https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-wwe-smackdown-results-october-30-2026/"/>
+    <title>CM Punk vs. Kevin Owens is now No Holds Barred for the November 6 SmackDown</title>
+    <id>https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-cm-punk-kevin-owens-no-holds-barred-smackdown-november-6-2026/"/>
     <updated>2026-10-31T00:00:00.000Z</updated>
     <published>2026-10-31T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Sami Zayn beat Trick Williams in a restarted No Disqualification match, Chelsea Green retained against Nikki Bella, and Finn Bálor returned as The Demon to put Gunther through the announce table.</summary>
+    <summary>WWE added a No Holds Barred stipulation to CM Punk vs. Kevin Owens on the October 30 SmackDown. The match airs Friday, November 6, the night before Crown Jewel.</summary>
     <category term="WWE"/>
   </entry>
 
   <entry>
-    <title>AEW Full Gear 2026 adds Anarchy in the Arena: Death Riders vs. The Cut</title>
-    <id>https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/"/>
-    <updated>2026-10-30T00:00:00.000Z</updated>
-    <published>2026-10-30T00:00:00.000Z</published>
+    <title>AEW Fright Night Collision preview, October 31, 2026: The Cut vs. The Conglomeration</title>
+    <id>https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-fright-night-collision-preview-october-31-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Jon Moxley challenged The Cut to Anarchy in the Arena at Full Gear on Fright Night Dynamite. Here is the Full Gear card so far for November 14 in Phoenix.</summary>
+    <summary>Halloween Collision from St. Louis features The Cut against The Conglomeration, an Artist of STARDOM title defense by Triangle of Madness and Ilja Dragunov against The Beast Mortos.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>AEW Fright Night Dynamite draws 620,000 viewers against the World Series, report says</title>
+    <id>https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-31-aew-dynamite-viewership-october-28-2026/"/>
+    <updated>2026-10-31T00:00:00.000Z</updated>
+    <published>2026-10-31T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Wrestlenomics figures reported by Fightful put the October 28 Dynamite at 620,000 TBS viewers and a 0.14 rating among adults 18 to 49, both slightly down from the week before.</summary>
     <category term="AEW"/>
   </entry>
 
@@ -173,24 +162,13 @@
   </entry>
 
   <entry>
-    <title>Shawn Michaels expected to take Bruce Prichard&#39;s WWE creative role, report says</title>
-    <id>https://ringzine.com/articles/2026-10-30-shawn-michaels-expected-to-replace-bruce-prichard-wwe-report/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-shawn-michaels-expected-to-replace-bruce-prichard-wwe-report/"/>
+    <title>WWE Youngstown live event results, October 29, 2026: Gable beats Punk, Zayn retains</title>
+    <id>https://ringzine.com/articles/2026-10-30-wwe-youngstown-live-event-results-october-29-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-wwe-youngstown-live-event-results-october-29-2026/"/>
     <updated>2026-10-30T00:00:00.000Z</updated>
     <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>PWInsider reports WWE plans to move Shawn Michaels into Bruce Prichard&#39;s creative writing and talent role after Prichard steps back following WrestleMania 43. WWE has not announced any change.</summary>
-    <category term="WWE"/>
-  </entry>
-
-  <entry>
-    <title>WWE SmackDown preview, October 30, 2026: Zayn vs. Williams and Green vs. Bella</title>
-    <id>https://ringzine.com/articles/2026-10-30-wwe-smackdown-october-30-2026-preview/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-wwe-smackdown-october-30-2026-preview/"/>
-    <updated>2026-10-30T00:00:00.000Z</updated>
-    <published>2026-10-30T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>Sami Zayn defends the Undisputed WWE Championship against Trick Williams and Chelsea Green defends the WWE Women&#39;s Championship against Nikki Bella on a Halloween themed SmackDown in Charleston, West Virginia.</summary>
+    <summary>At WWE&#39;s Road to Survivor Series tour stop in Youngstown, Ohio, Chad Gable pinned CM Punk and Sami Zayn kept the Undisputed WWE Championship in a triple threat, according to Fightful and PWMania.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -206,35 +184,35 @@
   </entry>
 
   <entry>
-    <title>WWE Youngstown live event results, October 29, 2026: Gable beats Punk, Zayn retains</title>
-    <id>https://ringzine.com/articles/2026-10-30-wwe-youngstown-live-event-results-october-29-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-wwe-youngstown-live-event-results-october-29-2026/"/>
+    <title>WWE SmackDown preview, October 30, 2026: Zayn vs. Williams and Green vs. Bella</title>
+    <id>https://ringzine.com/articles/2026-10-30-wwe-smackdown-october-30-2026-preview/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-wwe-smackdown-october-30-2026-preview/"/>
     <updated>2026-10-30T00:00:00.000Z</updated>
     <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>At WWE&#39;s Road to Survivor Series tour stop in Youngstown, Ohio, Chad Gable pinned CM Punk and Sami Zayn kept the Undisputed WWE Championship in a triple threat, according to Fightful and PWMania.</summary>
+    <summary>Sami Zayn defends the Undisputed WWE Championship against Trick Williams and Chelsea Green defends the WWE Women&#39;s Championship against Nikki Bella on a Halloween themed SmackDown in Charleston, West Virginia.</summary>
     <category term="WWE"/>
   </entry>
 
   <entry>
-    <title>AEW Fright Night Dynamite results, October 28, 2026: Aminata wins the TBS title</title>
-    <id>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/"/>
-    <updated>2026-10-29T00:00:00.000Z</updated>
-    <published>2026-10-29T00:00:00.000Z</published>
+    <title>Shawn Michaels expected to take Bruce Prichard&#39;s WWE creative role, report says</title>
+    <id>https://ringzine.com/articles/2026-10-30-shawn-michaels-expected-to-replace-bruce-prichard-wwe-report/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-shawn-michaels-expected-to-replace-bruce-prichard-wwe-report/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Queen Aminata beat Persephone for the TBS Championship, Darby Allin kept the TNT Championship against Josh Alexander, and the Motor City Machine Guns took Match 3 from FTR.</summary>
-    <category term="AEW"/>
+    <summary>PWInsider reports WWE plans to move Shawn Michaels into Bruce Prichard&#39;s creative writing and talent role after Prichard steps back following WrestleMania 43. WWE has not announced any change.</summary>
+    <category term="WWE"/>
   </entry>
 
   <entry>
-    <title>AEW books Ospreay vs. Fletcher for Full Gear and a Collision card</title>
-    <id>https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/"/>
-    <updated>2026-10-29T00:00:00.000Z</updated>
-    <published>2026-10-29T00:00:00.000Z</published>
+    <title>AEW Full Gear 2026 adds Anarchy in the Arena: Death Riders vs. The Cut</title>
+    <id>https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-30-aew-full-gear-2026-anarchy-in-the-arena-match-card/"/>
+    <updated>2026-10-30T00:00:00.000Z</updated>
+    <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Tony Khan made Will Ospreay versus Kyle Fletcher official for the AEW World Championship at Full Gear. Saturday&#39;s Collision has a posted card, and a women&#39;s Blood and Guts match is set.</summary>
+    <summary>Jon Moxley challenged The Cut to Anarchy in the Arena at Full Gear on Fright Night Dynamite. Here is the Full Gear card so far for November 14 in Phoenix.</summary>
     <category term="AEW"/>
   </entry>
 
@@ -250,35 +228,35 @@
   </entry>
 
   <entry>
-    <title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</title>
-    <id>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/"/>
-    <updated>2026-10-28T00:00:00.000Z</updated>
-    <published>2026-10-28T00:00:00.000Z</published>
+    <title>AEW books Ospreay vs. Fletcher for Full Gear and a Collision card</title>
+    <id>https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Darby Allin defends the TNT title against Josh Alexander, Persephone faces Queen Aminata for the TBS title, and FTR and the Motor City Machine Guns wrestle Match 3 tonight in St. Louis.</summary>
+    <summary>Tony Khan made Will Ospreay versus Kyle Fletcher official for the AEW World Championship at Full Gear. Saturday&#39;s Collision has a posted card, and a women&#39;s Blood and Guts match is set.</summary>
     <category term="AEW"/>
   </entry>
 
   <entry>
-    <title>NXT Halloween Havoc 2026 card and how to watch on October 31</title>
-    <id>https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/"/>
-    <updated>2026-10-28T00:00:00.000Z</updated>
-    <published>2026-10-28T00:00:00.000Z</published>
+    <title>AEW Fright Night Dynamite results, October 28, 2026: Aminata wins the TBS title</title>
+    <id>https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-29-aew-fright-night-dynamite-results-october-28-2026/"/>
+    <updated>2026-10-29T00:00:00.000Z</updated>
+    <published>2026-10-29T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Grayson Waller defends the NXT Championship against Tony D&#39;Angelo and Kelani Jordan faces Wren Sinclair at Halloween Havoc, live on The CW on Saturday, October 31.</summary>
-    <category term="WWE"/>
+    <summary>Queen Aminata beat Persephone for the TBS Championship, Darby Allin kept the TNT Championship against Josh Alexander, and the Motor City Machine Guns took Match 3 from FTR.</summary>
+    <category term="AEW"/>
   </entry>
 
   <entry>
-    <title>WWE Crown Jewel 2026 match card: four matches set for November 7 in Riyadh</title>
-    <id>https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/"/>
+    <title>WWE Raw holds at 2.5 million Netflix views for October 19 episode</title>
+    <id>https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/"/>
     <updated>2026-10-28T00:00:00.000Z</updated>
     <published>2026-10-28T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Roman Reigns vs. Sami Zayn and Liv Morgan vs. Chelsea Green headline Crown Jewel on November 7, but both SmackDown champions must first survive title defenses on October 30.</summary>
+    <summary>Netflix&#39;s weekly Top 10 lists the October 19 Raw at 2.5 million views and 4.3 million hours viewed, ninth on its global shows chart.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -294,13 +272,46 @@
   </entry>
 
   <entry>
-    <title>WWE Raw holds at 2.5 million Netflix views for October 19 episode</title>
-    <id>https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-raw-netflix-viewership-october-19-2026/"/>
+    <title>WWE Crown Jewel 2026 match card: four matches set for November 7 in Riyadh</title>
+    <id>https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-wwe-crown-jewel-2026-match-card/"/>
     <updated>2026-10-28T00:00:00.000Z</updated>
     <published>2026-10-28T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>Netflix&#39;s weekly Top 10 lists the October 19 Raw at 2.5 million views and 4.3 million hours viewed, ninth on its global shows chart.</summary>
+    <summary>Roman Reigns vs. Sami Zayn and Liv Morgan vs. Chelsea Green headline Crown Jewel on November 7, but both SmackDown champions must first survive title defenses on October 30.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>NXT Halloween Havoc 2026 card and how to watch on October 31</title>
+    <id>https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-nxt-halloween-havoc-2026-card-how-to-watch/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Grayson Waller defends the NXT Championship against Tony D&#39;Angelo and Kelani Jordan faces Wren Sinclair at Halloween Havoc, live on The CW on Saturday, October 31.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW Fright Night Dynamite preview: Allin vs. Alexander and two more title stakes</title>
+    <id>https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-28-aew-fright-night-dynamite-october-28-2026-preview/"/>
+    <updated>2026-10-28T00:00:00.000Z</updated>
+    <published>2026-10-28T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Darby Allin defends the TNT title against Josh Alexander, Persephone faces Queen Aminata for the TBS title, and FTR and the Motor City Machine Guns wrestle Match 3 tonight in St. Louis.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>WWE Raw results, October 26, 2026: Sami Zayn and Liv Morgan keep their titles</title>
+    <id>https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/"/>
+    <updated>2026-10-27T00:00:00.000Z</updated>
+    <published>2026-10-27T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Sami Zayn beat Je&#39;Von Evans to keep the Undisputed WWE Championship, and Liv Morgan kept the Women&#39;s World Championship when Becky Lynch won by disqualification.</summary>
     <category term="WWE"/>
   </entry>
 
@@ -312,17 +323,6 @@
     <published>2026-10-27T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
     <summary>WWE made Penta and Je&#39;Von Evans vs. Bron Breakker and Austin Theory for the World Tag Team Championship at Crown Jewel on November 7.</summary>
-    <category term="WWE"/>
-  </entry>
-
-  <entry>
-    <title>WWE Raw results, October 26, 2026: Sami Zayn and Liv Morgan keep their titles</title>
-    <id>https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/</id>
-    <link rel="alternate" href="https://ringzine.com/articles/2026-10-27-wwe-raw-results-october-26-2026/"/>
-    <updated>2026-10-27T00:00:00.000Z</updated>
-    <published>2026-10-27T00:00:00.000Z</published>
-    <author><name>RingZine</name></author>
-    <summary>Sami Zayn beat Je&#39;Von Evans to keep the Undisputed WWE Championship, and Liv Morgan kept the Women&#39;s World Championship when Becky Lynch won by disqualification.</summary>
     <category term="WWE"/>
   </entry>
 

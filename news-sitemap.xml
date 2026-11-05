@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</news:title>
-      <news:keywords>WWE NXT</news:keywords>
-    </news:news>
-  </url>
-  <url>
     <loc>https://ringzine.com/articles/2026-11-04-how-a-wargames-match-works/</loc>
     <news:news>
       <news:publication>
@@ -22,6 +10,18 @@
       <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
       <news:title>How a WarGames match works</news:title>
       <news:keywords>WarGames, Survivor Series, match rules</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
+      <news:title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</news:title>
+      <news:keywords>WWE NXT</news:keywords>
     </news:news>
   </url>
 </urlset>
