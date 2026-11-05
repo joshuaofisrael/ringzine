@@ -46,7 +46,7 @@ Rules:
 * No WWE or AEW footage, photos or logos. Use original title cards: `python3 scripts/make-graphics.py src/assets/images/NAME "KICKER" "Title" d97706`.
 * No dashes or hyphenated compounds in visible copy. Never use the word Signal in a name.
 * The owner name appears only on legal pages, through `partials/legal-notice.njk`.
-* No ads, no AdSense, no Ezoic, no ads.txt.
+* No AdSense script and no Ezoic. `ads.txt` names the Google publisher. Advertising is described in the privacy policy.
 
 ## Analytics and consent
 
@@ -58,7 +58,7 @@ The contact form posts to FormSubmit and returns visitors to `/contact/thanks/`.
 
 ## Discovery
 
-`sitemap.xml`, `news-sitemap.xml`, `feed.xml`, `atom.xml`, `robots.txt`, `llms.txt` and the IndexNow key file are generated on build. After a deploy run `npm run indexnow` (use `-- --dry-run` to preview).
+`sitemap.xml`, `news-sitemap.xml`, `feed.xml`, `atom.xml`, `robots.txt`, `ads.txt`, `llms.txt` and the IndexNow key file are generated on build. After a deploy run `npm run indexnow` (use `-- --dry-run` to preview).
 
 ## Deploy
 
