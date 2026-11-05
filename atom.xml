@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-05T13:54:40.923Z</updated>
+  <updated>2026-11-05T15:10:13.790Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Paige Returns to WWE NXT, Loses NXT Women&#39;s Title Challenge to Kelani Jordan</title>
+    <id>https://ringzine.com/articles/2026-11-05-paige-returns-nxt-kelani-jordan-retains-november-4/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-05-paige-returns-nxt-kelani-jordan-retains-november-4/"/>
+    <updated>2026-11-05T00:00:00.000Z</updated>
+    <published>2026-11-05T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Paige made a surprise NXT return on 4 November 2026 as Kelani Jordan&#39;s mystery challenger for the NXT Women&#39;s Championship; Jordan retained when she reversed Paige into a roll up / small package after Paige&#39;s finishing sequence.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>How a WarGames match works</title>
