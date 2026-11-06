@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-05T23:55:59.216Z</updated>
+  <updated>2026-11-06T13:31:51.051Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>WWE Road to Survivor Series event delivers Street Fight finish in Portland</title>
+    <id>https://ringzine.com/articles/2026-11-06-wwe-portland-road-to-survivor-series-results/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-06-wwe-portland-road-to-survivor-series-results/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE’s Portland, Maine house show on 5 November featured title defences, a six woman tag match and a restarted main event between CM Punk and Kevin Owens.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>WWE announces 11 early 2027 event dates across North America</title>
+    <id>https://ringzine.com/articles/2026-11-06-wwe-11-early-2027-event-dates/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-06-wwe-11-early-2027-event-dates/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE announced 11 new North American event dates to open 2027, including nine Raw and SmackDown editions, with tickets on sale 11 November at 10am local time.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW Full Gear: Mercedes Moné defends against Marina Shafir</title>
+    <id>https://ringzine.com/articles/2026-11-06-aew-full-gear-mercedes-marina-shafir/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-06-aew-full-gear-mercedes-marina-shafir/"/>
+    <updated>2026-11-06T00:00:00.000Z</updated>
+    <published>2026-11-06T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>AEW booked Mercedes Moné versus Marina Shafir for the AEW Women&#39;s World Championship at Full Gear on 14 November, after a confrontation at Blood and Guts.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Paige Returns to WWE NXT, Loses NXT Women&#39;s Title Challenge to Kelani Jordan</title>

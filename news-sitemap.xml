@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-06-wwe-portland-road-to-survivor-series-results/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>WWE Road to Survivor Series event delivers Street Fight finish in Portland</news:title>
+      <news:keywords>WWE, Survivor Series, Portland, CM Punk, Kevin Owens</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-06-wwe-11-early-2027-event-dates/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>WWE announces 11 early 2027 event dates across North America</news:title>
+      <news:keywords>WWE, Raw, SmackDown, 2027 tour</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-06-aew-full-gear-mercedes-marina-shafir/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
+      <news:title>AEW Full Gear: Mercedes Moné defends against Marina Shafir</news:title>
+      <news:keywords>AEW, Full Gear, Mercedes Moné, Marina Shafir</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-05-paige-returns-nxt-kelani-jordan-retains-november-4/</loc>
     <news:news>
       <news:publication>
@@ -10,30 +46,6 @@
       <news:publication_date>2026-11-05T00:00:00Z</news:publication_date>
       <news:title>Paige Returns to WWE NXT, Loses NXT Women&apos;s Title Challenge to Kelani Jordan</news:title>
       <news:keywords>Paige, Kelani Jordan, NXT, NXT Women&apos;s Championship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-04-how-a-wargames-match-works/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>How a WarGames match works</news:title>
-      <news:keywords>WarGames, Survivor Series, match rules</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-04-cm-punk-grayson-waller-nxt-championship-tonight/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T00:00:00Z</news:publication_date>
-      <news:title>CM Punk Challenges Grayson Waller for NXT Championship Tonight as WWE Loads Up Wednesday Show</news:title>
-      <news:keywords>WWE NXT</news:keywords>
     </news:news>
   </url>
 </urlset>
