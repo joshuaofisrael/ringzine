@@ -48,7 +48,7 @@ sources:
 
 Tiffany Stratton cashed in her Money in the Bank contract on her friend Chelsea Green to win the WWE Women's Championship at Crown Jewel in Riyadh on Saturday, minutes after Green had beaten Liv Morgan.
 
-WWE [confirmed the title change on X](https://x.com/WWE/status/2119142091951628573):
+WWE [confirmed the title change on X](https://x.com/WWE):
 
 > "After a successful cash-in on @ImChelseaGreen, @tiffstrattonwwe is your NEW WWE Women's Champion! 🏆"
 
@@ -62,7 +62,7 @@ WWE's post of the turn, captioned "Some kind of friend you are", had passed 1.6 
 
 ## Reigns wins the men's Crown Jewel Championship
 
-In the main event, World Heavyweight Champion Roman Reigns defeated Undisputed WWE Champion Sami Zayn to become Men's Crown Jewel Champion, finishing him with back-to-back Spears. WWE [posted the result on X](https://x.com/WWE/status/2119155457931546682):
+In the main event, World Heavyweight Champion Roman Reigns defeated Undisputed WWE Champion Sami Zayn to become Men's Crown Jewel Champion, finishing him with back-to-back Spears. WWE [posted the result on X](https://x.com/WWE):
 
 > ".@WWERomanReigns is your 2026 Crown Jewel Men's Champion! 🏆"
 
@@ -70,7 +70,7 @@ The finish followed a run of near falls and two referees being taken out, [CBS S
 
 ## Other Crown Jewel results
 
-Per [USA Today](https://www.usatoday.com/story/sports/2026/11/07/wwe-crown-jewel-2026-live-results-winners-highlights--live/92617250007/):
+Per USA Today's live results:
 
 - Cody Rhodes beat Randy Orton in a Last Man Standing match.
 - Penta and Je'Von Evans beat The Vision (Bron Breakker and Austin Theory) to win the World Tag Team Championship.
