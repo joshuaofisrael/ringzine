@@ -34,11 +34,11 @@ sources:
 
 WWE said Cody Rhodes defeated Randy Orton in a Last Man Standing match at Crown Jewel in Riyadh.
 
-The company [posted the finish on X](https://x.com/WWE/status/2119123381660344363), highlighting the punt kick:
+The company [posted the finish on X](https://x.com/WWE), highlighting the punt kick:
 
 > ".@CodyRhodes just PUNTED @RandyOrton! 🤯"
 
-ESPN [reported the same result](https://x.com/espn/status/2119123201401692445):
+ESPN [reported the same result](https://x.com/espn):
 
 > "CODY RHODES IS THE LAST MAN STANDING 🙌
 >
@@ -48,4 +48,4 @@ ESPN [reported the same result](https://x.com/espn/status/2119123201401692445):
 
 Confirmed from those posts: Last Man Standing rules, Crown Jewel in Saudi Arabia, Rhodes over Orton, with WWE centering the punt kick in its clip. WWE's post did not, in that caption, announce a rematch or Survivor Series pairing tied to the finish. RingZine will watch follow-up promos for the next booked chapter.
 
-Primary sources: WWE's [punt-kick post](https://x.com/WWE/status/2119123381660344363) and ESPN's [Last Man Standing result post](https://x.com/espn/status/2119123201401692445).
+Primary sources: WWE's punt-kick post and ESPN's Last Man Standing result post (exact post URLs are listed under Sources).
