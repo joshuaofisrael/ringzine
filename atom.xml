@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-07T13:39:06.528Z</updated>
+  <updated>2026-11-07T19:07:24.915Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -26,6 +26,17 @@
     <published>2026-11-07T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
     <summary>WWE said Kevin Owens defeated CM Punk in a No Holds Barred match on SmackDown. Triple H amplified the official result posts.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Cody Rhodes beats Randy Orton in Last Man Standing at Crown Jewel</title>
+    <id>https://ringzine.com/articles/2026-11-07-cody-rhodes-beats-randy-orton-lms-crown-jewel/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-cody-rhodes-beats-randy-orton-lms-crown-jewel/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE said Cody Rhodes defeated Randy Orton in a Last Man Standing match at Crown Jewel in Riyadh, including a punt kick finish highlighted on the company&#39;s X account.</summary>
     <category term="WWE"/>
   </entry>
 
