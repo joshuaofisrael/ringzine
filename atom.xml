@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-07T19:07:24.915Z</updated>
+  <updated>2026-11-07T22:07:31.239Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Tiffany Stratton cashes in on Chelsea Green at Crown Jewel as Roman Reigns beats Sami Zayn</title>
+    <id>https://ringzine.com/articles/2026-11-07-tiffany-stratton-cash-in-chelsea-green-reigns-crown-jewel/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-tiffany-stratton-cash-in-chelsea-green-reigns-crown-jewel/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Tiffany Stratton turned on Chelsea Green and cashed in Money in the Bank to win the WWE Women&#39;s Championship at Crown Jewel, while Roman Reigns speared Sami Zayn to win the men&#39;s Crown Jewel Championship.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Rey Mysterio to lead Team Mexico at Survivor Series 2026</title>
