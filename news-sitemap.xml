@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-07-aew-blood-and-guts-beats-nxt-ratings/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T00:00:00Z</news:publication_date>
+      <news:title>AEW Dynamite Blood &amp; Guts tops NXT in Wednesday ratings</news:title>
+      <news:keywords>AEW, Dynamite, Blood and Guts, WWE NXT, ratings, Tony Khan</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-06-wwe-portland-road-to-survivor-series-results/</loc>
     <news:news>
       <news:publication>
@@ -34,18 +46,6 @@
       <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
       <news:title>AEW Full Gear: Mercedes Moné defends against Marina Shafir</news:title>
       <news:keywords>AEW, Full Gear, Mercedes Moné, Marina Shafir</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-05-paige-returns-nxt-kelani-jordan-retains-november-4/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T00:00:00Z</news:publication_date>
-      <news:title>Paige Returns to WWE NXT, Loses NXT Women&apos;s Title Challenge to Kelani Jordan</news:title>
-      <news:keywords>Paige, Kelani Jordan, NXT, NXT Women&apos;s Championship</news:keywords>
     </news:news>
   </url>
 </urlset>

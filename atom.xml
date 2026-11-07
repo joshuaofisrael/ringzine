@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-06T13:31:51.051Z</updated>
+  <updated>2026-11-07T13:14:18.105Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Dynamite Blood &amp; Guts tops NXT in Wednesday ratings</title>
+    <id>https://ringzine.com/articles/2026-11-07-aew-blood-and-guts-beats-nxt-ratings/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-aew-blood-and-guts-beats-nxt-ratings/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Tony Khan thanked viewers after AEW Dynamite Blood &amp; Guts, saying the show had excellent viewership including AEW&#39;s most 18-49 viewers on TBS in years, as F4W/WON reported Dynamite beating WWE NXT head-to-head.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>WWE Road to Survivor Series event delivers Street Fight finish in Portland</title>
