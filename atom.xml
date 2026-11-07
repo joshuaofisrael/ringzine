@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-07T13:14:18.105Z</updated>
+  <updated>2026-11-07T13:39:06.528Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Rey Mysterio to lead Team Mexico at Survivor Series 2026</title>
+    <id>https://ringzine.com/articles/2026-11-07-rey-mysterio-team-mexico-survivor-series-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-rey-mysterio-team-mexico-survivor-series-2026/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Rey Mysterio said he will captain Team Mexico against Team USA in a classic five-on-five Survivor Series match at the 28 November WarGames Premium Live Event in Houston.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Kevin Owens beats CM Punk in No Holds Barred on SmackDown</title>
+    <id>https://ringzine.com/articles/2026-11-07-kevin-owens-beats-cm-punk-nhb-smackdown/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-kevin-owens-beats-cm-punk-nhb-smackdown/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE said Kevin Owens defeated CM Punk in a No Holds Barred match on SmackDown. Triple H amplified the official result posts.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW Full Gear upgrades trios title match to Texas Death rules</title>
+    <id>https://ringzine.com/articles/2026-11-07-aew-full-gear-texas-death-trios-ospreay-fletcher/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-07-aew-full-gear-texas-death-trios-ospreay-fletcher/"/>
+    <updated>2026-11-07T00:00:00.000Z</updated>
+    <published>2026-11-07T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>AEW confirmed on Dynamite that Hangman Page, Bandido and Brody King will defend the World Trios titles against Swerve Strickland, Austin Creed and Kofi under Texas Death rules at Full Gear, with Ospreay vs Fletcher also set.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>AEW Dynamite Blood &amp; Guts tops NXT in Wednesday ratings</title>
