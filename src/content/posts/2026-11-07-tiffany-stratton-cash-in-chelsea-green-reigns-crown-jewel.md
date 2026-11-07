@@ -11,11 +11,11 @@ summary: Tiffany Stratton turned on Chelsea Green and cashed in Money in the Ban
 description: 'WWE Crown Jewel 2026 results: Tiffany Stratton''s Money in the Bank
   cash-in on Chelsea Green and Roman Reigns'' win over Sami Zayn in Riyadh.'
 tags:
-- crown-jewel
-- tiffany-stratton
-- chelsea-green
-- roman-reigns
-- sami-zayn
+- WWE Crown Jewel
+- Tiffany Stratton
+- Chelsea Green
+- Roman Reigns
+- Sami Zayn
 author: RingZine
 hero:
   src: tiffany-stratton-cash-in-chelsea-green-reigns-crown-jewel-hero
