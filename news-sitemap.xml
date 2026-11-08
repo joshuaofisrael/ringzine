@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-08-tommaso-ciampa-wins-aew-national-title-jericho-cruise/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-08T00:00:00Z</news:publication_date>
+      <news:title>Tommaso Ciampa Wins AEW National Championship From Andrade on Jericho Cruise</news:title>
+      <news:keywords>AEW, Collision, Tommaso Ciampa, Andrade, AEW National Championship</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-07-tiffany-stratton-cash-in-chelsea-green-reigns-crown-jewel/</loc>
     <news:news>
       <news:publication>

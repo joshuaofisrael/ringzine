@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-08T06:00:56.250Z</updated>
+  <updated>2026-11-08T13:06:45.628Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Tommaso Ciampa Wins AEW National Championship From Andrade on Jericho Cruise</title>
+    <id>https://ringzine.com/articles/2026-11-08-tommaso-ciampa-wins-aew-national-title-jericho-cruise/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-08-tommaso-ciampa-wins-aew-national-title-jericho-cruise/"/>
+    <updated>2026-11-08T00:00:00.000Z</updated>
+    <published>2026-11-08T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Tommaso Ciampa defeated Andrade El Idolo on the November 7 episode of AEW Collision to become the new AEW National Champion.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Tiffany Stratton cashes in on Chelsea Green at Crown Jewel as Roman Reigns beats Sami Zayn</title>
