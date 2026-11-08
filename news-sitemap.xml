@@ -72,41 +72,5 @@
       <news:keywords>AEW, Dynamite, Blood and Guts, WWE NXT, ratings, Tony Khan</news:keywords>
     </news:news>
   </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-06-wwe-portland-road-to-survivor-series-results/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
-      <news:title>WWE Road to Survivor Series event delivers Street Fight finish in Portland</news:title>
-      <news:keywords>WWE, Survivor Series, Portland, CM Punk, Kevin Owens</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-06-wwe-11-early-2027-event-dates/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
-      <news:title>WWE announces 11 early 2027 event dates across North America</news:title>
-      <news:keywords>WWE, Raw, SmackDown, 2027 tour</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-06-aew-full-gear-mercedes-marina-shafir/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T00:00:00Z</news:publication_date>
-      <news:title>AEW Full Gear: Mercedes Moné defends against Marina Shafir</news:title>
-      <news:keywords>AEW, Full Gear, Mercedes Moné, Marina Shafir</news:keywords>
-    </news:news>
-  </url>
 </urlset>
 
