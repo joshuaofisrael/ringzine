@@ -53,7 +53,7 @@ test("RingZine production build", { timeout: 120000 }, () => {
     const src = fs.readFileSync(file, "utf8");
     const text = visible(src);
     const legal = LEGAL_PAGES.some((p) => rel === `${p}/index.html`);
-    assert.doesNotMatch(src, /adsbygoogle|pagead2|ca-pub-|ezoic|ezojs/i, `${rel} has ad code`);
+    assert.doesNotMatch(src.replace(/<script async src="https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js\?client=ca-pub-5681559774142917" crossorigin="anonymous"><\/script>/g, ""), /adsbygoogle|pagead2|ca-pub-|ezoic|ezojs/i, `${rel} has ad code beyond the AdSense verification loader`);
     assert.doesNotMatch(src, /EV News|evnewsdesk|electric vehicle/i, `${rel} has EV leftovers`);
     assert.doesNotMatch(text, /[\u2013\u2014]/, `${rel} has a dash in visible copy`);
     assert.doesNotMatch(text, /\bSignal\b/, `${rel} uses Signal`);
