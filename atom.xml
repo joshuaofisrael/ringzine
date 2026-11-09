@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-08T15:06:43.819Z</updated>
+  <updated>2026-11-09T13:53:12.459Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>John Cena sends Zilla Fatu a gift package, and two mystery challenge coins, before the John Cena Classic</title>
+    <id>https://ringzine.com/articles/2026-11-09-john-cena-zilla-fatu-classic-gift-package/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-09-john-cena-zilla-fatu-classic-gift-package/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Zilla Fatu showed off a package from John Cena with a Rise Above Hate watch and two gold challenge coins whose purpose in the December 14 John Cena Classic he kept secret.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW sets Thanksgiving-night Collision for November 26 after Thanksgiving Eve Dynamite in Omaha</title>
+    <id>https://ringzine.com/articles/2026-11-09-aew-announces-thanksgiving-collision-special/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-09-aew-announces-thanksgiving-collision-special/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>AEW will tape a special Thanksgiving edition of Collision on November 25 in Omaha and air it on Thursday, November 26, at 8 p.m. ET on TNT and HBO Max.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>WWE Raw November 9 preview: Greenville show advertises Reigns, Oba Femi and Liv Morgan</title>
