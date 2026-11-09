@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-09T13:53:12.459Z</updated>
+  <updated>2026-11-09T14:15:54.483Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -16,6 +16,17 @@
     <author><name>RingZine</name></author>
     <summary>Zilla Fatu showed off a package from John Cena with a Rise Above Hate watch and two gold challenge coins whose purpose in the December 14 John Cena Classic he kept secret.</summary>
     <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Tommaso Ciampa nicknames the AEW National Championship &quot;Ruby&quot; after Collision title win</title>
+    <id>https://ringzine.com/articles/2026-11-09-ciampa-names-aew-national-title-ruby/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-09-ciampa-names-aew-national-title-ruby/"/>
+    <updated>2026-11-09T00:00:00.000Z</updated>
+    <published>2026-11-09T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>In a backstage video after beating Andrade El Idolo on the November 7 Collision filmed on the Chris Jericho Cruise, Ciampa calls the National Championship Ruby and says he wants more AEW gold.</summary>
+    <category term="AEW"/>
   </entry>
 
   <entry>
