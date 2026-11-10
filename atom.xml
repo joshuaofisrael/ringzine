@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-09T14:16:07.728Z</updated>
+  <updated>2026-11-10T14:16:27.535Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Roman Reigns and The Bloodline challenge The 946 to WarGames at Survivor Series</title>
+    <id>https://ringzine.com/articles/2026-11-10-roman-reigns-war-games-challenge/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-10-roman-reigns-war-games-challenge/"/>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <published>2026-11-10T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Raw ended with Jacob Fatu&#39;s return, a brawl with The 946 and Roman Reigns laying down a WarGames challenge for Survivor Series.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Rey Fenix wins triple threat to become number one contender for Ethan Page&#39;s Intercontinental title</title>
+    <id>https://ringzine.com/articles/2026-11-10-rey-fenix-intercontinental-contender/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-10-rey-fenix-intercontinental-contender/"/>
+    <updated>2026-11-10T00:00:00.000Z</updated>
+    <published>2026-11-10T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Rey Fenix beat Chad Gable and Big Cass on Raw to earn a shot at Ethan Page, before The 946 attacked all three men.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>John Cena sends Zilla Fatu a gift package, and two mystery challenge coins, before the John Cena Classic</title>
