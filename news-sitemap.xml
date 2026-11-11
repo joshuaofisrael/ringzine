@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T18:00:00Z</news:publication_date>
+      <news:title>AEW runs a three-hour Dynamite and Collision tonight as the last stop before Full Gear</news:title>
+      <news:keywords>AEW, Dynamite, Collision, Full Gear, Mercedes Moné, Will Ospreay</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/</loc>
     <news:news>
       <news:publication>

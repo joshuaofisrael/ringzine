@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-11T14:53:50.489Z</updated>
+  <updated>2026-11-11T18:28:06.132Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW runs a three-hour Dynamite and Collision tonight as the last stop before Full Gear</title>
+    <id>https://ringzine.com/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/"/>
+    <updated>2026-11-11T18:00:00.000Z</updated>
+    <published>2026-11-11T18:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>AEW&#39;s official preview says the combined show airs live at 8 p.m. ET from the Maverik Center in West Valley City, with a mixed-tag Full Gear preview and a World Title face-off between Ospreay and Fletcher.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Tony Khan books FTR vs Motor City Machine Guns in Best of 5 Match 5 on Dynamite</title>
