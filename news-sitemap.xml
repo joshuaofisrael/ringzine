@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:45:00Z</news:publication_date>
+      <news:title>Tony Khan books FTR vs Motor City Machine Guns in Best of 5 Match 5 on Dynamite</news:title>
+      <news:keywords>AEW, Tony Khan, FTR, Motor City Machine Guns, Dynamite</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-11-kelani-defends-nxt-womens-title-kendal-grey/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T14:40:00Z</news:publication_date>
+      <news:title>Kelani will defend the NXT Women&apos;s Title against Kendal Grey next week, WWE says</news:title>
+      <news:keywords>NXT, Kelani, Kendal Grey, NXT Women&apos;s Championship</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-11-how-elimination-chamber-works/</loc>
     <news:news>
       <news:publication>

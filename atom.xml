@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-11T14:19:23.475Z</updated>
+  <updated>2026-11-11T14:53:50.489Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Tony Khan books FTR vs Motor City Machine Guns in Best of 5 Match 5 on Dynamite</title>
+    <id>https://ringzine.com/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/"/>
+    <updated>2026-11-11T14:45:00.000Z</updated>
+    <published>2026-11-11T14:45:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The AEW president said the series is tied 2-2 after last weekend, and that the decider airs on the Wednesday three-hour Dynamite and Collision show.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Kelani will defend the NXT Women&#39;s Title against Kendal Grey next week, WWE says</title>
+    <id>https://ringzine.com/articles/2026-11-11-kelani-defends-nxt-womens-title-kendal-grey/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-11-kelani-defends-nxt-womens-title-kendal-grey/"/>
+    <updated>2026-11-11T14:40:00.000Z</updated>
+    <published>2026-11-11T14:40:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE announced after Tuesday&#39;s NXT that Kelani will put the NXT Women&#39;s Championship on the line against Kendal Grey on the following week&#39;s show.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>How WWE’s Elimination Chamber Match Works</title>
