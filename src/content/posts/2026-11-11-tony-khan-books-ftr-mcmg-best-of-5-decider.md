@@ -1,7 +1,7 @@
 ---
 title: Tony Khan books FTR vs Motor City Machine Guns in Best of 5 Match 5 on Dynamite
 date: '2026-11-11T14:45:00.000Z'
-updatedAt: '2026-11-11T14:45:00.000Z'
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: AEW
 status: confirmed
 summary: The AEW president said the series is tied 2-2 after last weekend, and that
@@ -47,4 +47,4 @@ AEW's own account also promoted the tag match between Kofi and Austin Creed and 
 
 Khan's post is the primary source for the 2-2 series score and for Match 5 being scheduled on Wednesday's live show. The earlier POST Wrestling preview did not yet include that bout. As with any live wrestling card, announced matches can still change before bell time.
 
-This is a separate booking from Ciampa's first National title defence against Bailey, which this site has already covered from Khan's earlier announcement.
+This is a separate booking from Ciampa's first National title defence against Bailey, which this site has already covered from Khan's earlier announcement. A fuller preview of [Wednesday's three-hour Dynamite and Collision, the last stop before Full Gear](/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/), is also on this site.
