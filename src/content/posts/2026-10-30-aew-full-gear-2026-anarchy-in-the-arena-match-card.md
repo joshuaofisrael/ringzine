@@ -1,7 +1,7 @@
 ---
 title: "AEW Full Gear 2026 adds Anarchy in the Arena: Death Riders vs. The Cut"
 date: 2026-10-30
-updatedAt: 2026-10-30
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: AEW
 status: confirmed
 summary: "Jon Moxley challenged The Cut to Anarchy in the Arena at Full Gear on Fright Night Dynamite. Here is the Full Gear card so far for November 14 in Phoenix."
@@ -57,4 +57,4 @@ This list combines AEW's Dynamite results with the card [compiled by SEScoops](h
 
 ## Still unsettled
 
-Swerve Strickland wants the trios match turned into a Texas Death Match, and Creed and Kofi said on Dynamite they did not want that stipulation, AEW reported. No change has been made official. More on how Ospreay vs. Fletcher was booked is in our [Full Gear booking story](/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/).
+Swerve Strickland wants the trios match turned into a Texas Death Match, and Creed and Kofi said on Dynamite they did not want that stipulation, AEW reported. No change has been made official. More on how Ospreay vs. Fletcher was booked is in our [Full Gear booking story](/articles/2026-10-29-aew-full-gear-and-collision-bookings-october-28-2026/). AEW later scheduled a [three-hour Dynamite and Collision as the last stop before Full Gear](/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/).

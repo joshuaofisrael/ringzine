@@ -2,7 +2,7 @@
 title: "Paige Returns to WWE NXT, Loses NXT Women's Title Challenge to Kelani Jordan"
 date: 2026-11-05
 publishAt: "2026-11-05T14:00:00Z"
-updatedAt: 2026-11-05
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: WWE
 status: confirmed
 summary: "Paige made a surprise NXT return on 4 November 2026 as Kelani Jordan's mystery challenger for the NXT Women's Championship; Jordan retained when she reversed Paige into a roll up / small package after Paige's finishing sequence."
@@ -59,3 +59,5 @@ Paige's dominance for large stretches, as both WWE and POST describe it, makes t
 This Women's Title return is separate from any CM Punk and Waller NXT Title preview already on RingZine. Do not merge those angles: Paige vs Jordan was a concluded NXT Women's Championship match on the 4 November card, with Jordan retaining.
 
 Other results on the same show, including Chad Gable, Rey Fénix and Dragon Lee defeating The Vanity Project and Noam Dar & Romeo Moreno winning the 2026 Dusty Rhodes Tag Team Classic (with Cody Rhodes presenting the trophy afterward, per WWE), appear on WWE's results page but are outside the scope of this Paige return story. Those bouts show how stacked the episode was; they do not change the Women's Title outcome.
+
+WWE later said [Kelani will defend the NXT Women's Title against Kendal Grey](/articles/2026-11-11-kelani-defends-nxt-womens-title-kendal-grey/).

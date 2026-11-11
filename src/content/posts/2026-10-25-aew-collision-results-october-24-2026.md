@@ -1,7 +1,7 @@
 ---
 title: "AEW Collision results, October 24, 2026: FTR tie the series, women's Blood and Guts made"
 date: 2026-10-25
-updatedAt: 2026-10-27
+updatedAt: '2026-11-11T19:15:00.000Z'
 category: AEW
 status: confirmed
 summary: "FTR beat the Motor City Machine Guns to tie their Best of 5 series, Jay White beat Kyle O'Reilly, and AEW confirmed a women's Blood and Guts match for November 4."
@@ -52,3 +52,5 @@ AEW lists these matches for Fright Night Dynamite in St. Louis, [per the recap](
 - TBS Championship: Persephone vs. Queen Aminata
 - TNT Championship: Darby Allin vs. Josh Alexander
 - Best of 5, Match 3: FTR vs. the Motor City Machine Guns
+
+The series was later tied 2-2, and Tony Khan booked [Best of 5 Match 5 for Dynamite](/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/).
