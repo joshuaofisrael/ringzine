@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-10T14:16:27.535Z</updated>
+  <updated>2026-11-11T14:19:23.475Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>How WWE’s Elimination Chamber Match Works</title>
+    <id>https://ringzine.com/articles/2026-11-11-how-elimination-chamber-works/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-11-how-elimination-chamber-works/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>How the WWE Elimination Chamber match works: how entrants are released from the pods, what counts as an elimination, and how a winner is decided.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>How a WWE Battle Royal Works: Entries, Eliminations and the Winner</title>
+    <id>https://ringzine.com/articles/2026-11-11-how-battle-royal-works/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-11-how-battle-royal-works/"/>
+    <updated>2026-11-11T00:00:00.000Z</updated>
+    <published>2026-11-11T00:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>How a WWE battle royal works: how participants enter, what counts as an elimination, when the winner is decided, and how variants differ from the standard rules.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Roman Reigns and The Bloodline challenge The 946 to WarGames at Survivor Series</title>

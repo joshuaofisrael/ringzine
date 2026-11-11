@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-11-how-elimination-chamber-works/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
+      <news:title>How WWE’s Elimination Chamber Match Works</news:title>
+      <news:keywords>Elimination Chamber, match rules, Explainer</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-11-how-battle-royal-works/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
+      <news:title>How a WWE Battle Royal Works: Entries, Eliminations and the Winner</news:title>
+      <news:keywords>Battle Royal, match rules, Explainer</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-10-roman-reigns-war-games-challenge/</loc>
     <news:news>
       <news:publication>
@@ -20,42 +44,6 @@
       </news:publication>
       <news:publication_date>2026-11-10T00:00:00Z</news:publication_date>
       <news:title>Rey Fenix wins triple threat to become number one contender for Ethan Page&apos;s Intercontinental title</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-09-john-cena-zilla-fatu-classic-gift-package/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
-      <news:title>John Cena sends Zilla Fatu a gift package, and two mystery challenge coins, before the John Cena Classic</news:title>
-      <news:keywords>WWE, John Cena, zilla-fatu, john-cena-classic, NXT, Cody Rhodes</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-09-ciampa-names-aew-national-title-ruby/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
-      <news:title>Tommaso Ciampa nicknames the AEW National Championship &quot;Ruby&quot; after Collision title win</news:title>
-      <news:keywords>AEW, Tommaso Ciampa, AEW National Championship, Andrade, Collision</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-09-aew-announces-thanksgiving-collision-special/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T00:00:00Z</news:publication_date>
-      <news:title>AEW sets Thanksgiving-night Collision for November 26 after Thanksgiving Eve Dynamite in Omaha</news:title>
-      <news:keywords>AEW, Collision, Dynamite, thanksgiving, omaha, tnt</news:keywords>
     </news:news>
   </url>
 </urlset>
