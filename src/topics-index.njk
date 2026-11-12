@@ -1,0 +1,23 @@
+---
+layout: layouts/page.njk
+title: Topics
+seoTitle: "WWE and AEW topic hubs · RingZine"
+summary: Browse RingZine by promotion. The WWE and AEW hubs list results and roster news, each labelled Confirmed or Rumor, with sources on the article.
+updatedAt: 2026-11-12
+permalink: /topics/
+---
+<p>These pages group RingZine coverage by promotion. Every story is labelled Confirmed or Rumor, and the sources live on the article. RingZine is independent and is not affiliated with WWE or AEW.</p>
+<ul class="story-list">
+{% for item in site.categories %}
+  {% set stories = collections.posts | whereCategory(item.name) %}
+  <li>
+    <article class="story">
+      <div class="story-copy">
+        <p class="kicker">{{ stories.length }} {{ "story" if stories.length == 1 else "stories" }}</p>
+        <h2 class="story-title"><a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">{{ item.name }}</a></h2>
+        <p class="deck">{{ item.hubIntro }}</p>
+      </div>
+    </article>
+  </li>
+{% endfor %}
+</ul>

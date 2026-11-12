@@ -14,6 +14,7 @@ Search and AI crawlers may read this site. Every article is labelled Confirmed (
 ## Pages
 
 - [Home]({{ "/" | absoluteUrl }}): Latest stories
+- [Topics]({{ "/topics/" | absoluteUrl }}): WWE and AEW hubs
 {% for item in site.categories %}
 - [{{ item.name | safe }}]({{ ("/topics/" ~ item.slug ~ "/") | absoluteUrl }}): {{ item.hubIntro | safe }}
 {% endfor %}
