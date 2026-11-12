@@ -1,7 +1,7 @@
 ---
 title: Marina Shafir makes Mercedes Moné tap out on Dynamite days before their title match
-date: '2026-11-12T13:00:00.000Z'
-updatedAt: '2026-11-12T13:00:00.000Z'
+date: '2026-11-12T12:35:00.000Z'
+updatedAt: '2026-11-12T12:35:00.000Z'
 category: AEW
 status: confirmed
 summary: Shafir and Jon Moxley beat Moné and Jay White in a mixed tag match when Shafir caught the AEW Women's World Champion in the Brutalizer, ahead of their Full Gear title match.

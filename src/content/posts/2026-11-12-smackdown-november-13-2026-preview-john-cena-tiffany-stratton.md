@@ -1,7 +1,7 @@
 ---
 title: 'WWE SmackDown preview, November 13, 2026: John Cena returns and Tiffany Stratton''s first night as champion'
-date: '2026-11-12T13:45:00.000Z'
-updatedAt: '2026-11-12T13:45:00.000Z'
+date: '2026-11-12T12:05:00.000Z'
+updatedAt: '2026-11-12T12:05:00.000Z'
 category: WWE
 status: confirmed
 summary: WWE has announced John Cena for Friday's SmackDown in Fort Lauderdale to talk about the John Cena Classic, and Tiffany Stratton returns as the new WWE Women's Champion.

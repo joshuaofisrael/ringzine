@@ -1,7 +1,7 @@
 ---
 title: Queen Aminata keeps the TBS title and gets another three way at Saturday's Tailgate Brawl
-date: '2026-11-12T13:15:00.000Z'
-updatedAt: '2026-11-12T13:15:00.000Z'
+date: '2026-11-12T12:25:00.000Z'
+updatedAt: '2026-11-12T12:25:00.000Z'
 category: AEW
 status: confirmed
 summary: Aminata beat Skye Blue and Hyan on Collision. AEW then made a new three way TBS title match against Persephone and Maya World for the Full Gear Tailgate Brawl show.

@@ -1,7 +1,7 @@
 ---
 title: Tommaso Ciampa retains the AEW National title against Mike Bailey, Ilja Dragunov is next at Full Gear
-date: '2026-11-12T12:40:00.000Z'
-updatedAt: '2026-11-12T12:40:00.000Z'
+date: '2026-11-12T12:45:00.000Z'
+updatedAt: '2026-11-12T12:45:00.000Z'
 category: AEW
 status: confirmed
 summary: Ciampa beat Speedball Mike Bailey in his first defence on Dynamite, then Ilja Dragunov came out and confirmed their National title match for Full Gear on Saturday.

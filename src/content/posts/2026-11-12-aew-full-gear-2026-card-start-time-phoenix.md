@@ -1,7 +1,7 @@
 ---
 title: 'AEW Full Gear 2026: the full card, start time and how to watch on Saturday'
-date: '2026-11-12T13:30:00.000Z'
-updatedAt: '2026-11-12T13:30:00.000Z'
+date: '2026-11-12T12:15:00.000Z'
+updatedAt: '2026-11-12T12:15:00.000Z'
 category: AEW
 status: confirmed
 summary: Full Gear is on Saturday 14 November in Phoenix, with Will Ospreay against Kyle Fletcher for the AEW World title and five more championship matches after Wednesday's go home show.

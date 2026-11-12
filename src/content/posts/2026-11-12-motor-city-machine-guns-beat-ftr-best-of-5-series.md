@@ -1,7 +1,7 @@
 ---
 title: Motor City Machine Guns beat FTR at the buzzer to win the Best of 5 series
-date: '2026-11-12T12:20:00.000Z'
-updatedAt: '2026-11-12T12:20:00.000Z'
+date: '2026-11-12T12:55:00.000Z'
+updatedAt: '2026-11-12T12:55:00.000Z'
 category: AEW
 status: confirmed
 summary: Alex Shelley rolled up Dax Harwood in the final seconds of Match 5 on Dynamite, giving the Motor City Machine Guns a 3 to 2 series win and a shot at the AEW World Tag Team titles after Full Gear.
