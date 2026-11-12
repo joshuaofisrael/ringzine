@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-12-motor-city-machine-guns-beat-ftr-best-of-5-series/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:55:00Z</news:publication_date>
+      <news:title>Motor City Machine Guns beat FTR at the buzzer to win the Best of 5 series</news:title>
+      <news:keywords>AEW, AEW Dynamite, FTR, Motor City Machine Guns, Full Gear</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-12-ciampa-retains-national-title-bailey-dragunov-full-gear/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:45:00Z</news:publication_date>
+      <news:title>Tommaso Ciampa retains the AEW National title against Mike Bailey, Ilja Dragunov is next at Full Gear</news:title>
+      <news:keywords>AEW, AEW Dynamite, Tommaso Ciampa, Ilja Dragunov, AEW National Championship, Full Gear</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-12-marina-shafir-submits-mercedes-mone-mixed-tag-dynamite/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:35:00Z</news:publication_date>
+      <news:title>Marina Shafir makes Mercedes Moné tap out on Dynamite days before their title match</news:title>
+      <news:keywords>AEW, AEW Dynamite, Marina Shafir, Mercedes Moné, Death Riders, The Cut, Full Gear</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-12-queen-aminata-retains-tbs-title-tailgate-brawl-three-way/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:25:00Z</news:publication_date>
+      <news:title>Queen Aminata keeps the TBS title and gets another three way at Saturday&apos;s Tailgate Brawl</news:title>
+      <news:keywords>AEW, AEW Collision, Queen Aminata, TBS Championship, Full Gear</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-12-aew-full-gear-2026-card-start-time-phoenix/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:15:00Z</news:publication_date>
+      <news:title>AEW Full Gear 2026: the full card, start time and how to watch on Saturday</news:title>
+      <news:keywords>AEW, Full Gear, AEW Full Gear, Will Ospreay, Kyle Fletcher, Anarchy in the Arena</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-12-smackdown-november-13-2026-preview-john-cena-tiffany-stratton/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T12:05:00Z</news:publication_date>
+      <news:title>WWE SmackDown preview, November 13, 2026: John Cena returns and Tiffany Stratton&apos;s first night as champion</news:title>
+      <news:keywords>WWE, WWE SmackDown, John Cena, Tiffany Stratton, Survivor Series</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/</loc>
     <news:news>
       <news:publication>
@@ -58,28 +130,6 @@
       <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
       <news:title>How a WWE Battle Royal Works: Entries, Eliminations and the Winner</news:title>
       <news:keywords>Battle Royal, match rules, Explainer</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-10-roman-reigns-war-games-challenge/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T00:00:00Z</news:publication_date>
-      <news:title>Roman Reigns and The Bloodline challenge The 946 to WarGames at Survivor Series</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-10-rey-fenix-intercontinental-contender/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-10T00:00:00Z</news:publication_date>
-      <news:title>Rey Fenix wins triple threat to become number one contender for Ethan Page&apos;s Intercontinental title</news:title>
     </news:news>
   </url>
 </urlset>

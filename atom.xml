@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-11T19:19:39.377Z</updated>
+  <updated>2026-11-12T13:34:04.380Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Motor City Machine Guns beat FTR at the buzzer to win the Best of 5 series</title>
+    <id>https://ringzine.com/articles/2026-11-12-motor-city-machine-guns-beat-ftr-best-of-5-series/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-motor-city-machine-guns-beat-ftr-best-of-5-series/"/>
+    <updated>2026-11-12T12:55:00.000Z</updated>
+    <published>2026-11-12T12:55:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Alex Shelley rolled up Dax Harwood in the final seconds of Match 5 on Dynamite, giving the Motor City Machine Guns a 3 to 2 series win and a shot at the AEW World Tag Team titles after Full Gear.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Tommaso Ciampa retains the AEW National title against Mike Bailey, Ilja Dragunov is next at Full Gear</title>
+    <id>https://ringzine.com/articles/2026-11-12-ciampa-retains-national-title-bailey-dragunov-full-gear/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-ciampa-retains-national-title-bailey-dragunov-full-gear/"/>
+    <updated>2026-11-12T12:45:00.000Z</updated>
+    <published>2026-11-12T12:45:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Ciampa beat Speedball Mike Bailey in his first defence on Dynamite, then Ilja Dragunov came out and confirmed their National title match for Full Gear on Saturday.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Marina Shafir makes Mercedes Moné tap out on Dynamite days before their title match</title>
+    <id>https://ringzine.com/articles/2026-11-12-marina-shafir-submits-mercedes-mone-mixed-tag-dynamite/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-marina-shafir-submits-mercedes-mone-mixed-tag-dynamite/"/>
+    <updated>2026-11-12T12:35:00.000Z</updated>
+    <published>2026-11-12T12:35:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Shafir and Jon Moxley beat Moné and Jay White in a mixed tag match when Shafir caught the AEW Women&#39;s World Champion in the Brutalizer, ahead of their Full Gear title match.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Queen Aminata keeps the TBS title and gets another three way at Saturday&#39;s Tailgate Brawl</title>
+    <id>https://ringzine.com/articles/2026-11-12-queen-aminata-retains-tbs-title-tailgate-brawl-three-way/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-queen-aminata-retains-tbs-title-tailgate-brawl-three-way/"/>
+    <updated>2026-11-12T12:25:00.000Z</updated>
+    <published>2026-11-12T12:25:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Aminata beat Skye Blue and Hyan on Collision. AEW then made a new three way TBS title match against Persephone and Maya World for the Full Gear Tailgate Brawl show.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>AEW Full Gear 2026: the full card, start time and how to watch on Saturday</title>
+    <id>https://ringzine.com/articles/2026-11-12-aew-full-gear-2026-card-start-time-phoenix/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-aew-full-gear-2026-card-start-time-phoenix/"/>
+    <updated>2026-11-12T12:15:00.000Z</updated>
+    <published>2026-11-12T12:15:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Full Gear is on Saturday 14 November in Phoenix, with Will Ospreay against Kyle Fletcher for the AEW World title and five more championship matches after Wednesday&#39;s go home show.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>WWE SmackDown preview, November 13, 2026: John Cena returns and Tiffany Stratton&#39;s first night as champion</title>
+    <id>https://ringzine.com/articles/2026-11-12-smackdown-november-13-2026-preview-john-cena-tiffany-stratton/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-12-smackdown-november-13-2026-preview-john-cena-tiffany-stratton/"/>
+    <updated>2026-11-12T12:05:00.000Z</updated>
+    <published>2026-11-12T12:05:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE has announced John Cena for Friday&#39;s SmackDown in Fort Lauderdale to talk about the John Cena Classic, and Tiffany Stratton returns as the new WWE Women&#39;s Champion.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>AEW runs a three-hour Dynamite and Collision tonight as the last stop before Full Gear</title>
