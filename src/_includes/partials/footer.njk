@@ -4,6 +4,7 @@
     <nav aria-label="Coverage">
       <h2>{% set iconName = "wwe" %}{% include "partials/section-icon.njk" %} Coverage</h2>
       <ul>
+        <li><a href="{{ '/topics/' | url }}">All topics</a></li>
         {% for item in site.categories %}
         <li><a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">{{ item.name }}</a></li>
         {% endfor %}
