@@ -9,6 +9,7 @@ Search and AI crawlers may read this site. Every article is labelled Confirmed (
 ## Pages
 
 - [Home](https://ringzine.com/): Latest stories
+- [Topics](https://ringzine.com/topics/): WWE and AEW hubs
 
 - [WWE](https://ringzine.com/topics/wwe/): WWE news and results: Raw, SmackDown, and premium live events. Every story is labelled Confirmed or Rumor and links its sources.
 
