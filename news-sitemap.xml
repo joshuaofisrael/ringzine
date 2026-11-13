@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-13-damian-priest-aaa-run-on-hold-smackdown-schedule/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:45:00Z</news:publication_date>
+      <news:title>Damian Priest says his AAA run is on hold because of his SmackDown schedule</news:title>
+      <news:keywords>WWE, WWE SmackDown, Damian Priest, AAA</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-13-bayley-misses-nxt-cleveland-teases-smackdown-adds-chicago/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T13:35:00Z</news:publication_date>
+      <news:title>Bayley pulls out of tonight&apos;s NXT Cleveland show and hints at a SmackDown appearance</news:title>
+      <news:keywords>WWE, WWE SmackDown, WWE NXT, Bayley</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-12-motor-city-machine-guns-beat-ftr-best-of-5-series/</loc>
     <news:news>
       <news:publication>
@@ -106,30 +130,6 @@
       <news:publication_date>2026-11-11T14:40:00Z</news:publication_date>
       <news:title>Kelani will defend the NXT Women&apos;s Title against Kendal Grey next week, WWE says</news:title>
       <news:keywords>NXT, Kelani, Kendal Grey, NXT Women&apos;s Championship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-11-how-elimination-chamber-works/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
-      <news:title>How WWE’s Elimination Chamber Match Works</news:title>
-      <news:keywords>Elimination Chamber, match rules, Explainer</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-11-how-battle-royal-works/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T00:00:00Z</news:publication_date>
-      <news:title>How a WWE Battle Royal Works: Entries, Eliminations and the Winner</news:title>
-      <news:keywords>Battle Royal, match rules, Explainer</news:keywords>
     </news:news>
   </url>
 </urlset>

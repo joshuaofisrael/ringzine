@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-12T14:52:30.965Z</updated>
+  <updated>2026-11-13T14:23:13.177Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Damian Priest says his AAA run is on hold because of his SmackDown schedule</title>
+    <id>https://ringzine.com/articles/2026-11-13-damian-priest-aaa-run-on-hold-smackdown-schedule/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-13-damian-priest-aaa-run-on-hold-smackdown-schedule/"/>
+    <updated>2026-11-13T13:45:00.000Z</updated>
+    <published>2026-11-13T13:45:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The former World Heavyweight Champion said getting to Mexico for Saturday shows after Friday SmackDown was too hard, so he missed two advertised AAA dates and the run has been paused.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Bayley pulls out of tonight&#39;s NXT Cleveland show and hints at a SmackDown appearance</title>
+    <id>https://ringzine.com/articles/2026-11-13-bayley-misses-nxt-cleveland-teases-smackdown-adds-chicago/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-13-bayley-misses-nxt-cleveland-teases-smackdown-adds-chicago/"/>
+    <updated>2026-11-13T13:35:00.000Z</updated>
+    <published>2026-11-13T13:35:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Bayley said she will miss the NXT live event at the Agora Theatre on 13 November because she has business to handle, adding a SmackDown logo to her post. She is still booked for NXT Detroit and now NXT Chicago.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Motor City Machine Guns beat FTR at the buzzer to win the Best of 5 series</title>
