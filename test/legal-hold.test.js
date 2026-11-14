@@ -55,3 +55,11 @@ test("an image without an Original licence record is held", () => {
   const raw = fs.readFileSync(path.join(passDir, "2026-10-27-test-pass.md"), "utf8").replace("raw-1026-hero", "unknown-photo");
   assert.ok(checkPost(raw, { images: {} }).flags.some((f) => f.rule === 3));
 });
+
+test("rule 2 ignores digits inside link URLs but still catches phone numbers and emails in copy", () => {
+  const link = "[posted on X](https://x.com/WWE/status/2121426499727249816)";
+  const rule2 = (body) => checkPost(`---\ntitle: t\n---\n${body}\n`).flags.filter((f) => f.rule === 2).length;
+  assert.equal(rule2(`WWE ${link}.`), 0);
+  assert.equal(rule2(`Call 555 123 4567 or see ${link}.`), 1);
+  assert.equal(rule2(`Write to fan@example.com after ${link}.`), 1);
+});
