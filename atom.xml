@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-13T14:23:25.517Z</updated>
+  <updated>2026-11-14T14:30:31.077Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>SmackDown results 13 November: women&#39;s WarGames teams set, Rey Fénix joins Team Mexico, Cena invites Charlotte</title>
+    <id>https://ringzine.com/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/"/>
+    <updated>2026-11-14T13:55:00.000Z</updated>
+    <published>2026-11-14T13:55:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Charlotte Flair&#39;s team will face Fatal Influence, Jade Cargill and Michin inside WarGames at Survivor Series, John Cena added Charlotte and Fatal Influence to his Classic, and Gunther beat Finn Bálor.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Spike Dudley signs a WWE Legends deal after the trademark standoff ends</title>
+    <id>https://ringzine.com/articles/2026-11-14-spike-dudley-signs-wwe-legends-deal/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-14-spike-dudley-signs-wwe-legends-deal/"/>
+    <updated>2026-11-14T13:45:00.000Z</updated>
+    <published>2026-11-14T13:45:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The former ECW and WWE star announced the contract on Facebook and said new merchandise is coming. He had abandoned his own trademark application for the name in early November.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Damian Priest says his AAA run is on hold because of his SmackDown schedule</title>

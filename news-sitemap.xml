@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T13:55:00Z</news:publication_date>
+      <news:title>SmackDown results 13 November: women&apos;s WarGames teams set, Rey Fénix joins Team Mexico, Cena invites Charlotte</news:title>
+      <news:keywords>WWE, WWE SmackDown, Survivor Series, WarGames, Charlotte Flair, John Cena</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-14-spike-dudley-signs-wwe-legends-deal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-14T13:45:00Z</news:publication_date>
+      <news:title>Spike Dudley signs a WWE Legends deal after the trademark standoff ends</news:title>
+      <news:keywords>WWE, Spike Dudley, WWE Legends, ECW</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-13-damian-priest-aaa-run-on-hold-smackdown-schedule/</loc>
     <news:news>
       <news:publication>
@@ -22,114 +46,6 @@
       <news:publication_date>2026-11-13T13:35:00Z</news:publication_date>
       <news:title>Bayley pulls out of tonight&apos;s NXT Cleveland show and hints at a SmackDown appearance</news:title>
       <news:keywords>WWE, WWE SmackDown, WWE NXT, Bayley</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-motor-city-machine-guns-beat-ftr-best-of-5-series/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:55:00Z</news:publication_date>
-      <news:title>Motor City Machine Guns beat FTR at the buzzer to win the Best of 5 series</news:title>
-      <news:keywords>AEW, AEW Dynamite, FTR, Motor City Machine Guns, Full Gear</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-ciampa-retains-national-title-bailey-dragunov-full-gear/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:45:00Z</news:publication_date>
-      <news:title>Tommaso Ciampa retains the AEW National title against Mike Bailey, Ilja Dragunov is next at Full Gear</news:title>
-      <news:keywords>AEW, AEW Dynamite, Tommaso Ciampa, Ilja Dragunov, AEW National Championship, Full Gear</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-marina-shafir-submits-mercedes-mone-mixed-tag-dynamite/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:35:00Z</news:publication_date>
-      <news:title>Marina Shafir makes Mercedes Moné tap out on Dynamite days before their title match</news:title>
-      <news:keywords>AEW, AEW Dynamite, Marina Shafir, Mercedes Moné, Death Riders, The Cut, Full Gear</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-queen-aminata-retains-tbs-title-tailgate-brawl-three-way/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:25:00Z</news:publication_date>
-      <news:title>Queen Aminata keeps the TBS title and gets another three way at Saturday&apos;s Tailgate Brawl</news:title>
-      <news:keywords>AEW, AEW Collision, Queen Aminata, TBS Championship, Full Gear</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-aew-full-gear-2026-card-start-time-phoenix/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:15:00Z</news:publication_date>
-      <news:title>AEW Full Gear 2026: the full card, start time and how to watch on Saturday</news:title>
-      <news:keywords>AEW, Full Gear, AEW Full Gear, Will Ospreay, Kyle Fletcher, Anarchy in the Arena</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-12-smackdown-november-13-2026-preview-john-cena-tiffany-stratton/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-12T12:05:00Z</news:publication_date>
-      <news:title>WWE SmackDown preview, November 13, 2026: John Cena returns and Tiffany Stratton&apos;s first night as champion</news:title>
-      <news:keywords>WWE, WWE SmackDown, John Cena, Tiffany Stratton, Survivor Series</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-11-aew-three-hour-dynamite-collision-full-gear/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T18:00:00Z</news:publication_date>
-      <news:title>AEW runs a three-hour Dynamite and Collision tonight as the last stop before Full Gear</news:title>
-      <news:keywords>AEW, Dynamite, Collision, Full Gear, Mercedes Moné, Will Ospreay</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-11-tony-khan-books-ftr-mcmg-best-of-5-decider/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T14:45:00Z</news:publication_date>
-      <news:title>Tony Khan books FTR vs Motor City Machine Guns in Best of 5 Match 5 on Dynamite</news:title>
-      <news:keywords>AEW, Tony Khan, FTR, Motor City Machine Guns, Dynamite</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-11-kelani-defends-nxt-womens-title-kendal-grey/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-11T14:40:00Z</news:publication_date>
-      <news:title>Kelani will defend the NXT Women&apos;s Title against Kendal Grey next week, WWE says</news:title>
-      <news:keywords>NXT, Kelani, Kendal Grey, NXT Women&apos;s Championship</news:keywords>
     </news:news>
   </url>
 </urlset>
