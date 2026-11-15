@@ -4,8 +4,8 @@ date: '2026-11-15T13:35:00.000Z'
 updatedAt: '2026-11-15T13:35:00.000Z'
 category: AEW
 status: confirmed
-summary: Moné survived Marina Shafir's Brutalizer and stole the pin with a cradle while using the ropes for leverage, leaving the Death Riders member with a clear claim to a rematch.
-description: Moné survived Marina Shafir's Brutalizer and stole the pin with a cradle while using the ropes for leverage, leaving the Death Riders member with a clear claim to a rematch.
+summary: Moné survived Marina Shafir's Brutalizer and won with a cradle while using the ropes for leverage, leaving the Death Riders member with a clear claim to a rematch.
+description: Moné survived Marina Shafir's Brutalizer and won with a cradle while using the ropes for leverage, leaving the Death Riders member with a clear claim to a rematch.
 tags:
 - AEW
 - AEW Full Gear
@@ -45,4 +45,4 @@ Shafir became the top contender after confronting Moné following her win over T
 
 ## What comes next
 
-[Yahoo Sports](https://sports.yahoo.com/wrestling/live/aew-full-gear-2026-live-results-updates-grades-analysis-tonight-for-will-ospreay-vs-kyle-fletcher-213000744.html) says Shafir looked impressive in the biggest match of her career so far and has a clear path to a rematch after the champion used the ropes to steal the win.
+[Yahoo Sports](https://sports.yahoo.com/wrestling/live/aew-full-gear-2026-live-results-updates-grades-analysis-tonight-for-will-ospreay-vs-kyle-fletcher-213000744.html) says Shafir looked impressive in the biggest match of her career so far and has a clear path to a rematch after the champion used the ropes to get the win.
