@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-14T14:30:31.077Z</updated>
+  <updated>2026-11-15T14:28:54.854Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>AEW Full Gear 2026: Ospreay retains against Fletcher, then MJF returns and attacks him</title>
+    <id>https://ringzine.com/articles/2026-11-15-aew-full-gear-2026-ospreay-retains-mjf-returns/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-15-aew-full-gear-2026-ospreay-retains-mjf-returns/"/>
+    <updated>2026-11-15T14:05:00.000Z</updated>
+    <published>2026-11-15T14:05:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Will Ospreay kept the AEW World Championship in a 41 minute main event in Phoenix before a masked MJF ambushed him and held up his own title belt. AEW says MJF will speak on Dynamite in Denver on Wednesday.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Ilja Dragunov wins the AEW National Championship at Full Gear, ending Ciampa&#39;s reign after seven days</title>
+    <id>https://ringzine.com/articles/2026-11-15-ilja-dragunov-wins-aew-national-title-full-gear-ciampa/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-15-ilja-dragunov-wins-aew-national-title-full-gear-ciampa/"/>
+    <updated>2026-11-15T13:50:00.000Z</updated>
+    <published>2026-11-15T13:50:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Dragunov beat Tommaso Ciampa with a D Bomb in his first AEW pay per view match to claim his first title in the company, a week after Ciampa won the belt from Andrade.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Mercedes Moné keeps the AEW Women&#39;s World title at Full Gear with her feet on the ropes</title>
+    <id>https://ringzine.com/articles/2026-11-15-mercedes-mone-retains-marina-shafir-full-gear-2026/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-15-mercedes-mone-retains-marina-shafir-full-gear-2026/"/>
+    <updated>2026-11-15T13:35:00.000Z</updated>
+    <published>2026-11-15T13:35:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Moné survived Marina Shafir&#39;s Brutalizer and won with a cradle while using the ropes for leverage, leaving the Death Riders member with a clear claim to a rematch.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>SmackDown results 13 November: women&#39;s WarGames teams set, Rey Fénix joins Team Mexico, Cena invites Charlotte</title>

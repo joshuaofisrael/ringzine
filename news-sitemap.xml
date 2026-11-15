@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-15-aew-full-gear-2026-ospreay-retains-mjf-returns/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T14:05:00Z</news:publication_date>
+      <news:title>AEW Full Gear 2026: Ospreay retains against Fletcher, then MJF returns and attacks him</news:title>
+      <news:keywords>AEW, AEW Full Gear, Will Ospreay, MJF, Kyle Fletcher, AEW Dynamite</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-15-ilja-dragunov-wins-aew-national-title-full-gear-ciampa/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:50:00Z</news:publication_date>
+      <news:title>Ilja Dragunov wins the AEW National Championship at Full Gear, ending Ciampa&apos;s reign after seven days</news:title>
+      <news:keywords>AEW, AEW Full Gear, Ilja Dragunov, Tommaso Ciampa, AEW National Championship</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-15-mercedes-mone-retains-marina-shafir-full-gear-2026/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-15T13:35:00Z</news:publication_date>
+      <news:title>Mercedes Moné keeps the AEW Women&apos;s World title at Full Gear with her feet on the ropes</news:title>
+      <news:keywords>AEW, AEW Full Gear, Mercedes Moné, Marina Shafir, Death Riders</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/</loc>
     <news:news>
       <news:publication>
@@ -22,30 +58,6 @@
       <news:publication_date>2026-11-14T13:45:00Z</news:publication_date>
       <news:title>Spike Dudley signs a WWE Legends deal after the trademark standoff ends</news:title>
       <news:keywords>WWE, Spike Dudley, WWE Legends, ECW</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-13-damian-priest-aaa-run-on-hold-smackdown-schedule/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:45:00Z</news:publication_date>
-      <news:title>Damian Priest says his AAA run is on hold because of his SmackDown schedule</news:title>
-      <news:keywords>WWE, WWE SmackDown, Damian Priest, AAA</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-13-bayley-misses-nxt-cleveland-teases-smackdown-adds-chicago/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T13:35:00Z</news:publication_date>
-      <news:title>Bayley pulls out of tonight&apos;s NXT Cleveland show and hints at a SmackDown appearance</news:title>
-      <news:keywords>WWE, WWE SmackDown, WWE NXT, Bayley</news:keywords>
     </news:news>
   </url>
 </urlset>
