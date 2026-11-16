@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-15T14:28:54.854Z</updated>
+  <updated>2026-11-16T14:21:47.476Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Tony Khan says three private planes saved the Full Gear card and confirms Persephone is signed for years</title>
+    <id>https://ringzine.com/articles/2026-11-16-tony-khan-private-planes-full-gear-persephone-signed/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-16-tony-khan-private-planes-full-gear-persephone-signed/"/>
+    <updated>2026-11-16T14:00:00.000Z</updated>
+    <published>2026-11-16T14:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>At the post show media scrum, the AEW president said chartered flights got talent to Phoenix after Friday&#39;s FAA ground stop. He also said Persephone will stay beyond 2026 and claimed Full Gear pay per view buys rose year on year.</summary>
+    <category term="AEW"/>
+  </entry>
+
+  <entry>
+    <title>Tony Khan confirms the Kasper Brothers, formerly the Creed Brothers, are All Elite after their Full Gear debut</title>
+    <id>https://ringzine.com/articles/2026-11-16-kasper-brothers-sign-aew-after-full-gear-debut/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-16-kasper-brothers-sign-aew-after-full-gear-debut/"/>
+    <updated>2026-11-16T13:50:00.000Z</updated>
+    <published>2026-11-16T13:50:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Jacob and Drew Kasper attacked The Young Bucks and the Motor City Machine Guns in Phoenix, then Khan posted that the pair are signed. Their WWE run ended in early November.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>AEW Full Gear 2026: Ospreay retains against Fletcher, then MJF returns and attacks him</title>

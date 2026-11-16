@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-16-tony-khan-private-planes-full-gear-persephone-signed/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T14:00:00Z</news:publication_date>
+      <news:title>Tony Khan says three private planes saved the Full Gear card and confirms Persephone is signed for years</news:title>
+      <news:keywords>AEW, AEW Full Gear, Tony Khan, Persephone, MJF, Continental Classic</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-16-kasper-brothers-sign-aew-after-full-gear-debut/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-16T13:50:00Z</news:publication_date>
+      <news:title>Tony Khan confirms the Kasper Brothers, formerly the Creed Brothers, are All Elite after their Full Gear debut</news:title>
+      <news:keywords>AEW, AEW Full Gear, Kasper Brothers, Young Bucks, FTR, Tony Khan</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-15-aew-full-gear-2026-ospreay-retains-mjf-returns/</loc>
     <news:news>
       <news:publication>
@@ -34,30 +58,6 @@
       <news:publication_date>2026-11-15T13:35:00Z</news:publication_date>
       <news:title>Mercedes Moné keeps the AEW Women&apos;s World title at Full Gear with her feet on the ropes</news:title>
       <news:keywords>AEW, AEW Full Gear, Mercedes Moné, Marina Shafir, Death Riders</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:55:00Z</news:publication_date>
-      <news:title>SmackDown results 13 November: women&apos;s WarGames teams set, Rey Fénix joins Team Mexico, Cena invites Charlotte</news:title>
-      <news:keywords>WWE, WWE SmackDown, Survivor Series, WarGames, Charlotte Flair, John Cena</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-14-spike-dudley-signs-wwe-legends-deal/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T13:45:00Z</news:publication_date>
-      <news:title>Spike Dudley signs a WWE Legends deal after the trademark standoff ends</news:title>
-      <news:keywords>WWE, Spike Dudley, WWE Legends, ECW</news:keywords>
     </news:news>
   </url>
 </urlset>
