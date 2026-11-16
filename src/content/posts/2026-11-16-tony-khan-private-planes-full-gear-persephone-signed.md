@@ -31,7 +31,7 @@ AEW sent three private planes to collect wrestlers after Friday's nationwide FAA
 
 ## The travel scramble
 
-Khan said AEW started arranging other transport while flights were still grounded, then sent the three planes to hub airports to pick up talent whose commercial flights had been cancelled once the restriction lifted. "Had I not sent the private planes, a lot of people on this pay per view would not have made it here tonight," he said, according to POST Wrestling. Some wrestlers arrived only hours or minutes before the show.
+Khan said AEW started arranging other transport while flights were still grounded, then sent the three planes to hub airports to pick up talent whose commercial flights had been cancelled once the restriction lifted. He said many people on the card would not have made it to Phoenix without those planes, according to POST Wrestling. Some wrestlers arrived only hours or minutes before the show.
 
 Maya World was the only wrestler advertised for a match who could not reach Phoenix, which forced a change to the TBS Championship match on the Tailgate Brawl pre show. Khan also said Renee Paquette could not attend.
 
@@ -41,6 +41,6 @@ Asked about reports that Persephone's deal could expire this year, Khan said she
 
 ## MJF, business and the Continental Classic
 
-Khan confirmed MJF will appear on Wednesday's Dynamite after his return at the end of Full Gear. He claimed Full Gear was "up significantly year over year" on pay per view but gave no figures, so that cannot be checked.
+Khan confirmed MJF will appear on Wednesday's Dynamite after his return at the end of Full Gear. He claimed Full Gear pay per view buys were well up on last year but gave no figures, so that cannot be checked.
 
 The Continental Classic field is due to be revealed on Monday during halftime of Monday Night Football, with Khan and Tony Schiavone hosting the selection special. Khan also said AEW is changing action figure partners, with new lines due before the holidays.
