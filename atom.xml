@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-16T14:21:47.476Z</updated>
+  <updated>2026-11-17T14:28:24.352Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>IYO SKY beats Raquel Rodriguez to win the Women&#39;s Intercontinental Championship on Raw</title>
+    <id>https://ringzine.com/articles/2026-11-17-iyo-sky-wins-womens-intercontinental-title-raw-november-16/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-17-iyo-sky-wins-womens-intercontinental-title-raw-november-16/"/>
+    <updated>2026-11-17T14:20:00.000Z</updated>
+    <published>2026-11-17T14:20:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>WWE announced the title change on X during Monday&#39;s Raw. The 946 also earned the advantage in the Men&#39;s WarGames Match, and LA Knight beat The Miz to join Team USA for Survivor Series.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>AEW reveals the 2026 Continental Classic leagues: Moxley and Ciampa in Gold, Page and Ricochet in Blue</title>
+    <id>https://ringzine.com/articles/2026-11-17-aew-continental-classic-2026-gold-blue-league-fields/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-17-aew-continental-classic-2026-gold-blue-league-fields/"/>
+    <updated>2026-11-17T14:10:00.000Z</updated>
+    <published>2026-11-17T14:10:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Twelve wrestlers are split into two round robin leagues of six. Semifinals and the final are set for AEW Worlds End in Minneapolis on 19 December, under Continental Rules with a 20 minute time limit.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Tony Khan says three private planes saved the Full Gear card and confirms Persephone is signed for years</title>
