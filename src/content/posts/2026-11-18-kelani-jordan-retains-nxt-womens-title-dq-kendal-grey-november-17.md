@@ -15,7 +15,7 @@ tags:
 author: RingZine
 hero:
   src: kelani-jordan-retains-nxt-womens-title-dq-kendal-grey-november-17-hero
-  alt: Stage with a blank glowing screen and audience silhouettes in a dark hall, no faces or logos
+  alt: "Women's wrestling match seen from ringside with a referee in a striped shirt by the ropes, no faces, logos or readable text"
   caption: AI generated
   width: 1280
   height: 720
