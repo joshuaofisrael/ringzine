@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-17T14:28:24.352Z</updated>
+  <updated>2026-11-18T14:26:00.900Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Kelani Jordan keeps the NXT Women&#39;s Championship by getting herself disqualified against Kendal Grey</title>
+    <id>https://ringzine.com/articles/2026-11-18-kelani-jordan-retains-nxt-womens-title-dq-kendal-grey-november-17/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-18-kelani-jordan-retains-nxt-womens-title-dq-kendal-grey-november-17/"/>
+    <updated>2026-11-18T13:50:00.000Z</updated>
+    <published>2026-11-18T13:50:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Grey won the match on Tuesday&#39;s NXT after Jordan slapped the referee while trapped in the Ankle Lock, but the title does not change hands on a disqualification. It was Grey&#39;s first shot at the belt she lost to Jordan.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Zilla Fatu beats DarkState&#39;s Dion Lennox on NXT after Los Perros del Mal crash the match</title>
+    <id>https://ringzine.com/articles/2026-11-18-zilla-fatu-beats-dion-lennox-los-perros-del-mal-darkstate-nxt/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-18-zilla-fatu-beats-dion-lennox-los-perros-del-mal-darkstate-nxt/"/>
+    <updated>2026-11-18T13:40:00.000Z</updated>
+    <published>2026-11-18T13:40:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Fatu crashed into the ring steps when Lennox moved, but a brawl between Los Perros del Mal and the rest of DarkState gave him the opening for a frog splash and the pin.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>IYO SKY beats Raquel Rodriguez to win the Women&#39;s Intercontinental Championship on Raw</title>
