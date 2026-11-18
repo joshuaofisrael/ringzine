@@ -16,7 +16,7 @@ tags:
 author: RingZine
 hero:
   src: zilla-fatu-beats-dion-lennox-los-perros-del-mal-darkstate-nxt-hero
-  alt: Crowd seen from behind holding scarves aloft with red flares in a dark arena, no faces, logos or readable text
+  alt: Steel ring steps and a cleared ringside announce table with scattered papers in a dark arena, no faces, logos or readable text
   caption: AI generated
   width: 1280
   height: 720
