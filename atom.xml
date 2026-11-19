@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-19T17:03:20.162Z</updated>
+  <updated>2026-11-19T17:24:19.123Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>MJF says he is the real AEW World Champion, and wants Will Ospreay in a title vs title match at Worlds End</title>
+    <id>https://ringzine.com/articles/2026-11-19-mjf-challenges-will-ospreay-title-vs-title-aew-worlds-end/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-19-mjf-challenges-will-ospreay-title-vs-title-aew-worlds-end/"/>
+    <updated>2026-11-19T17:25:00.000Z</updated>
+    <published>2026-11-19T17:25:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>On Dynamite, MJF challenged Will Ospreay to a match at Worlds End for both versions of the AEW World Championship. AEW has not made it official yet.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>WWE president Nick Khan names Oba Femi the company&#39;s next big thing, and credits The Undertaker for finding him</title>
