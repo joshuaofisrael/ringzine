@@ -1,7 +1,7 @@
 ---
 title: Bandido beats his own trios partner Hangman Page with the 21 Plex to open the Continental Classic Blue League
-date: '2026-11-19T14:20:00.000Z'
-updatedAt: '2026-11-19T14:20:00.000Z'
+date: '2026-11-19T14:10:00.000Z'
+updatedAt: '2026-11-19T14:10:00.000Z'
 category: AEW
 status: confirmed
 summary: The ROH World Champion took the first three points in the Blue League on Wednesday's Dynamite in Denver, countering the Buckshot Lariat before landing the 21 Plex. Page, bleeding again from his Full Gear wound, eventually shook his hand.

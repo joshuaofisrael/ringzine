@@ -1,7 +1,7 @@
 ---
 title: '"I would not miss next week for the world": The Rock says he is coming to Survivor Series in Houston'
-date: '2026-11-19T14:30:00.000Z'
-updatedAt: '2026-11-19T14:30:00.000Z'
+date: '2026-11-19T14:15:00.000Z'
+updatedAt: '2026-11-19T14:15:00.000Z'
 category: WWE
 status: confirmed
 summary: 'The Rock told The Pat McAfee Show he will be in Houston for Survivor Series: WarGames on Saturday 28 November, the 30th anniversary of his WWE debut. WWE has not said whether he will appear on the show itself.'
