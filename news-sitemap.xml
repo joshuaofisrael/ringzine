@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-19-the-rock-survivor-series-houston-30th-anniversary-pat-mcafee/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T14:15:00Z</news:publication_date>
+      <news:title>&quot;I would not miss next week for the world&quot;: The Rock says he is coming to Survivor Series in Houston</news:title>
+      <news:keywords>WWE, The Rock, Survivor Series, WarGames, Pat McAfee</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-19-bandido-beats-hangman-page-continental-classic-blue-league-dynamite-november-18/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T14:10:00Z</news:publication_date>
+      <news:title>Bandido beats his own trios partner Hangman Page with the 21 Plex to open the Continental Classic Blue League</news:title>
+      <news:keywords>AEW, AEW Dynamite, Bandido, Hangman Adam Page, Continental Classic</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-18-kelani-jordan-retains-nxt-womens-title-dq-kendal-grey-november-17/</loc>
     <news:news>
       <news:publication>
@@ -22,30 +46,6 @@
       <news:publication_date>2026-11-18T13:40:00Z</news:publication_date>
       <news:title>Zilla Fatu beats DarkState&apos;s Dion Lennox on NXT after Los Perros del Mal crash the match</news:title>
       <news:keywords>WWE, WWE NXT, zilla-fatu, Dion Lennox, DarkState, Los Perros del Mal</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-17-iyo-sky-wins-womens-intercontinental-title-raw-november-16/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:20:00Z</news:publication_date>
-      <news:title>IYO SKY beats Raquel Rodriguez to win the Women&apos;s Intercontinental Championship on Raw</news:title>
-      <news:keywords>WWE, WWE Raw, IYO SKY, Raquel Rodriguez, Survivor Series, WarGames</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-17-aew-continental-classic-2026-gold-blue-league-fields/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-17T14:10:00Z</news:publication_date>
-      <news:title>AEW reveals the 2026 Continental Classic leagues: Moxley and Ciampa in Gold, Page and Ricochet in Blue</news:title>
-      <news:keywords>AEW, Continental Classic, Jon Moxley, Hangman Adam Page, Ricochet, AEW Worlds End</news:keywords>
     </news:news>
   </url>
 </urlset>

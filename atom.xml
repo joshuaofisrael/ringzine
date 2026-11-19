@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-18T14:41:16.979Z</updated>
+  <updated>2026-11-19T14:33:28.135Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>&quot;I would not miss next week for the world&quot;: The Rock says he is coming to Survivor Series in Houston</title>
+    <id>https://ringzine.com/articles/2026-11-19-the-rock-survivor-series-houston-30th-anniversary-pat-mcafee/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-19-the-rock-survivor-series-houston-30th-anniversary-pat-mcafee/"/>
+    <updated>2026-11-19T14:15:00.000Z</updated>
+    <published>2026-11-19T14:15:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The Rock told The Pat McAfee Show he will be in Houston for Survivor Series: WarGames on Saturday 28 November, the 30th anniversary of his WWE debut. WWE has not said whether he will appear on the show itself.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Bandido beats his own trios partner Hangman Page with the 21 Plex to open the Continental Classic Blue League</title>
+    <id>https://ringzine.com/articles/2026-11-19-bandido-beats-hangman-page-continental-classic-blue-league-dynamite-november-18/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-19-bandido-beats-hangman-page-continental-classic-blue-league-dynamite-november-18/"/>
+    <updated>2026-11-19T14:10:00.000Z</updated>
+    <published>2026-11-19T14:10:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>The ROH World Champion took the first three points in the Blue League on Wednesday&#39;s Dynamite in Denver, countering the Buckshot Lariat before landing the 21 Plex. Page, bleeding again from his Full Gear wound, eventually shook his hand.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Kelani Jordan keeps the NXT Women&#39;s Championship by getting herself disqualified against Kendal Grey</title>
