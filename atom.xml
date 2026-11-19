@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-19T17:24:19.123Z</updated>
+  <updated>2026-11-19T17:34:20.512Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Ilja Dragunov told Don Callis no, so his first National title defence is this Saturday against El Clon</title>
+    <id>https://ringzine.com/articles/2026-11-19-ilja-dragunov-rejects-don-callis-defends-national-title-el-clon-collision/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-19-ilja-dragunov-rejects-don-callis-defends-national-title-el-clon-collision/"/>
+    <updated>2026-11-19T17:30:00.000Z</updated>
+    <published>2026-11-19T17:30:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>New AEW National Champion Ilja Dragunov turned down an offer to join the Don Callis Family on Dynamite and offered to defend against any member. Callis picked El Clon, and the match is official for Saturday&#39;s Collision.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>MJF says he is the real AEW World Champion, and wants Will Ospreay in a title vs title match at Worlds End</title>

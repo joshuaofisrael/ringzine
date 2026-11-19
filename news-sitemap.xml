@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-19-ilja-dragunov-rejects-don-callis-defends-national-title-el-clon-collision/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:30:00Z</news:publication_date>
+      <news:title>Ilja Dragunov told Don Callis no, so his first National title defence is this Saturday against El Clon</news:title>
+      <news:keywords>AEW, Ilja Dragunov, El Clon, Don Callis Family, AEW Collision</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-19-mjf-challenges-will-ospreay-title-vs-title-aew-worlds-end/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-19T17:25:00Z</news:publication_date>
+      <news:title>MJF says he is the real AEW World Champion, and wants Will Ospreay in a title vs title match at Worlds End</news:title>
+      <news:keywords>AEW, MJF, Will Ospreay, AEW Worlds End, AEW Dynamite</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-19-nick-khan-oba-femi-next-big-thing-undertaker-alabama-shot-put/</loc>
     <news:news>
       <news:publication>
