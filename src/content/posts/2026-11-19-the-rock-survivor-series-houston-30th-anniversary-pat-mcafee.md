@@ -15,7 +15,7 @@ tags:
 author: RingZine
 hero:
   src: the-rock-survivor-series-houston-30th-anniversary-pat-mcafee-hero
-  alt: Wide view of a packed arena with stage lights and haze above the ring, no faces, logos or readable text
+  alt: Empty wrestling ring under warm stage lights in a large arena seen from high in the stands, no faces, logos or readable text
   caption: AI generated
   width: 1280
   height: 720
