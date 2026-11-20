@@ -38,12 +38,18 @@ layout: layouts/base.njk
     {% set imageLoading = "eager" %}
     {% set imagePriority = "high" %}
     {% include "partials/picture.njk" %}
-    <figcaption><a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
+    <figcaption><span class="figure-ai">AI generated</span> <a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
   </figure>
   {% endif %}
   {% include "partials/story-figure.njk" %}
+  {% set reads = collections.posts | pageReads(category, page.url, tags, page.date, label, title) %}
+  {% set stories = reads.mid %}
+  {% set heading = "Read next" %}
+  {% set headingId = "read-next-mid" %}
+  {% set note = "" %}
+  {% set midReads %}{% include "partials/next-reads.njk" %}{% endset %}
   <div class="prose">
-    {{ content | insertBodyImages(images) | safe }}
+    {{ content | insertBodyImages(images) | insertReadNext(midReads) | safe }}
   </div>
   {% if tags and tags.length %}
   <section class="tag-block" aria-labelledby="tags-heading">
@@ -87,18 +93,36 @@ layout: layouts/base.njk
     <p>This draft has no sources yet. Add a non-empty sources list before publishing. The production build fails without one.</p>
     {% endif %}
   </section>
-  {% set related = collections.posts | relatedStories(category, page.url, 5) %}
-  <section class="related" aria-labelledby="related-heading">
-    <h2 id="related-heading">Related stories</h2>
-    <p>More from the <a href="{{ ('/topics/' ~ (category | categorySlug) ~ '/') | url }}">{{ category }} coverage</a>.</p>
-    {% if related.length %}
-    <ul>
-      {% for post in related %}
-      <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
-      {% endfor %}
-    </ul>
-    {% else %}
-    <p>No other published story is in {{ category }}.</p>
-    {% endif %}
+  {% if reads.followUps.length %}
+  {% set stories = reads.followUps %}
+  {% set heading = "What happened next" %}
+  {% set headingId = "follow-up-heading" %}
+  {% set note = "Later RingZine stories that continue this one." %}
+  {% include "partials/next-reads.njk" %}
+  {% endif %}
+  {% set deskHref = ('/topics/' ~ (category | categorySlug) ~ '/') | url %}
+  {% if reads.explainer and reads.compare.length %}
+  {% set stories = reads.compare %}
+  {% set heading = "Check another match type" %}
+  {% set headingId = "compare-heading" %}
+  {% set note = "Same kind of page, different match. The rules are not interchangeable." %}
+  {% set listOnly = false %}
+  <div class="compare-box">
+    {% include "partials/next-reads.njk" %}
+  </div>
+  {% elif not reads.explainer %}
+  <section class="next-reads background-reads" aria-labelledby="background-heading">
+    <h2 id="background-heading">Background</h2>
+    <p class="next-reads-note">The running file is the <a href="{{ deskHref }}">{{ category }} desk</a>. These explainers cover the match types behind the news.</p>
+    {% set stories = reads.background %}
+    {% set listOnly = true %}
+    {% include "partials/next-reads.njk" %}
   </section>
+  {% endif %}
+  {% set listOnly = false %}
+  {% set stories = reads.end %}
+  {% set heading = "Read next" %}
+  {% set headingId = "read-next-end" %}
+  {% set note = "More from the <a href=\"" ~ deskHref ~ "\">" ~ category ~ " coverage</a>." %}
+  {% include "partials/next-reads.njk" %}
 </article>

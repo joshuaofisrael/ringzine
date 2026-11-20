@@ -935,6 +935,60 @@ main:focus { outline: none; }
 .related ul { margin: 0; padding-left: 1.2rem; }
 .related li { margin: 0.55rem 0; }
 
+.next-reads,
+.compare-box {
+  margin: 1.75rem 0;
+  max-width: 68ch;
+}
+
+.compare-box {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--link);
+  border-radius: 16px;
+  padding: 0.35rem 1rem 1rem;
+}
+
+.compare-box .next-reads { margin: 0; max-width: none; }
+
+.next-reads-note { margin: 0 0 0.85rem; }
+
+.next-reads h2,
+.compare-box h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin: 0.85rem 0;
+  font-family: var(--sans);
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.prose .next-reads .story-list,
+.prose .compare-box .story-list,
+.next-reads-list {
+  padding-left: 0;
+}
+
+.prose .next-reads .story-list > li,
+.prose .compare-box .story-list > li,
+.next-reads-list > li {
+  margin: 0;
+}
+
+.next-reads .story-title,
+.compare-box .story-title { margin: 0; }
+
+.next-reads .story-title a,
+.compare-box .story-title a {
+  font-size: 1.05rem;
+  line-height: 1.35;
+  letter-spacing: -0.02em;
+}
+
+.figure-ai { font-weight: 700; }
+
 .site-footer {
   background: var(--header);
   color: var(--header-muted);
