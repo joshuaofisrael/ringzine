@@ -6,6 +6,9 @@ pagination:
   addAllPagesToCollections: true
 permalink: "/tags/{{ tag | slugify }}/"
 layout: layouts/section.njk
+# Tag listings are thin link lists: noindex + out of sitemap (AdSense low-value fix, 20 Nov 2026)
+noindex: true
+sitemapIgnore: true
 ---
 {% set stories = collections.publishedPosts | whereTag(tag) %}
 {% set emptyNote = "No published story uses this tag." %}
