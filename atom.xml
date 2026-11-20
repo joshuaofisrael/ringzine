@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-20T14:44:39.511Z</updated>
+  <updated>2026-11-20T16:14:52.166Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
@@ -707,7 +707,7 @@
     <updated>2026-10-30T00:00:00.000Z</updated>
     <published>2026-10-30T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>AEW&#39;s Blood and Guts puts two rings under one roofed cage. Wrestlers enter on a clock, there are no pinfalls, and a team wins only when an opponent submits or surrenders.</summary>
+    <summary>AEW&#39;s Blood and Guts puts two rings under one giant cage. Wrestlers enter on a clock, and a team wins only by submission or surrender. The November 4, 2026 matches have already aired.</summary>
     <category term="AEW"/>
   </entry>
 
@@ -773,7 +773,7 @@
     <updated>2026-10-29T00:00:00.000Z</updated>
     <published>2026-10-29T00:00:00.000Z</published>
     <author><name>RingZine</name></author>
-    <summary>WWE&#39;s Last Man Standing match has no pinfall, no submission, and no disqualification. It ends when a wrestler cannot get up before a count of 10, and a draw leaves a title with the champion.</summary>
+    <summary>A WWE Last Man Standing match has no pinfall, no submission and no disqualification. It ends on a count of 10. A draw leaves the title with the champion. Cody Rhodes won the latest one, against Randy Orton at Crown Jewel.</summary>
     <category term="WWE"/>
   </entry>
 
