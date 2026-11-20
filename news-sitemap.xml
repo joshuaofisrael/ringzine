@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-20-wrathlander-first-defence-divine-dominion-womens-tag-titles-thanksgiving-eve-dynamite/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-20T14:10:00Z</news:publication_date>
+      <news:title>Divine Dominion say WrathLander have never beaten them, and they get the chance to prove it for the titles on Thanksgiving Eve</news:title>
+      <news:keywords>AEW, AEW Dynamite, Kris Statlander, Harley Cameron, Divine Dominion</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-19-ilja-dragunov-rejects-don-callis-defends-national-title-el-clon-collision/</loc>
     <news:news>
       <news:publication>
@@ -58,30 +70,6 @@
       <news:publication_date>2026-11-19T14:10:00Z</news:publication_date>
       <news:title>Bandido beats his own trios partner Hangman Page with the 21 Plex to open the Continental Classic Blue League</news:title>
       <news:keywords>AEW, AEW Dynamite, Bandido, Hangman Adam Page, Continental Classic</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-18-kelani-jordan-retains-nxt-womens-title-dq-kendal-grey-november-17/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:50:00Z</news:publication_date>
-      <news:title>Kelani Jordan keeps the NXT Women&apos;s Championship by getting herself disqualified against Kendal Grey</news:title>
-      <news:keywords>WWE, WWE NXT, Kelani Jordan, Kendal Grey, NXT Women&apos;s Championship</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-18-zilla-fatu-beats-dion-lennox-los-perros-del-mal-darkstate-nxt/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-18T13:40:00Z</news:publication_date>
-      <news:title>Zilla Fatu beats DarkState&apos;s Dion Lennox on NXT after Los Perros del Mal crash the match</news:title>
-      <news:keywords>WWE, WWE NXT, zilla-fatu, Dion Lennox, DarkState, Los Perros del Mal</news:keywords>
     </news:news>
   </url>
 </urlset>

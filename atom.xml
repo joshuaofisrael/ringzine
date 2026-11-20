@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-20T13:14:24.268Z</updated>
+  <updated>2026-11-20T14:26:28.610Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Divine Dominion say WrathLander have never beaten them, and they get the chance to prove it for the titles on Thanksgiving Eve</title>
+    <id>https://ringzine.com/articles/2026-11-20-wrathlander-first-defence-divine-dominion-womens-tag-titles-thanksgiving-eve-dynamite/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-20-wrathlander-first-defence-divine-dominion-womens-tag-titles-thanksgiving-eve-dynamite/"/>
+    <updated>2026-11-20T14:10:00.000Z</updated>
+    <published>2026-11-20T14:10:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>New AEW Women&#39;s World Tag Team Champions Harley Cameron and Kris Statlander will make their first defence against former champions Megan Bayne and Lena Kross on the Thanksgiving Eve Dynamite in Omaha next Wednesday.</summary>
+    <category term="AEW"/>
+  </entry>
 
   <entry>
     <title>Ilja Dragunov told Don Callis no, so his first National title defence is this Saturday against El Clon</title>
