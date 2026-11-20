@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-20T14:26:28.610Z</updated>
+  <updated>2026-11-20T14:44:39.511Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Team USA basketball coach Kara Lawson says she is &quot;dead serious&quot; about a WWE match, and has a message for Triple H</title>
+    <id>https://ringzine.com/articles/2026-11-20-kara-lawson-wants-wwe-match-dead-serious-charlotte-flair-raw-raleigh/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-20-kara-lawson-wants-wwe-match-dead-serious-charlotte-flair-raw-raleigh/"/>
+    <updated>2026-11-20T14:45:00.000Z</updated>
+    <published>2026-11-20T14:45:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Duke and Team USA women&#39;s basketball head coach Kara Lawson sat front row at Monday&#39;s Raw in Raleigh on tickets from Charlotte Flair, and now says she wants to wrestle in WWE.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Nick Khan admits WWE wants its best seats priced &quot;as high as possible&quot;, and says cheap tickets just feed the resellers</title>
+    <id>https://ringzine.com/articles/2026-11-20-nick-khan-wwe-ticket-prices-jack-up-front-row-not-too-family-friendly-brokers/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-20-nick-khan-wwe-ticket-prices-jack-up-front-row-not-too-family-friendly-brokers/"/>
+    <updated>2026-11-20T14:40:00.000Z</updated>
+    <published>2026-11-20T14:40:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>Speaking at Bloomberg&#39;s Screentime conference, WWE President Nick Khan said the company pushes its most expensive tickets as high as it can and stops short of truly family friendly pricing upstairs because brokers would buy those seats.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Divine Dominion say WrathLander have never beaten them, and they get the chance to prove it for the titles on Thanksgiving Eve</title>
