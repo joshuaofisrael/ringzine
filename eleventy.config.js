@@ -5,6 +5,7 @@ import { freshNewsPosts, renderNewsSitemap } from "./lib/news-sitemap.js";
 import { absoluteUrl, pathPrefixFromSiteUrl, prefixRootUrls } from "./lib/site-url.js";
 import { buildCrumbs, renderBreadcrumbNav, renderJsonLd } from "./lib/structured-data.js";
 import { figureCaption, imageFilesReady, insertBodyImages } from "./lib/article-images.js";
+import { insertHtmlAfterParagraph, isExplainer, readsForPage } from "./lib/related-reads.js";
 import { metaDescription } from "./lib/meta-description.js";
 import { formatValidationErrors, validatePostsDir } from "./lib/validate-posts.js";
 import { formatGate, gatePostsDir } from "./lib/legal-hold.js";
@@ -64,6 +65,17 @@ export default function (eleventyConfig) {
       .sort(byNewestPublish)
       .slice(0, Number(limit) || 5),
   );
+  eleventyConfig.addFilter("pageReads", (posts, category, url, tags, date, label, title) =>
+    readsForPage(
+      posts,
+      { category, url, tags, date, label, title },
+      { includeDrafts },
+    ),
+  );
+  eleventyConfig.addFilter("isExplainerPost", (label, title, tags) =>
+    isExplainer({ data: { label, title, tags } }),
+  );
+  eleventyConfig.addFilter("insertReadNext", (html, block) => insertHtmlAfterParagraph(html, block));
   eleventyConfig.addFilter("whereTag", (posts, tag) =>
     (posts || []).filter((post) => (post.data.tags || []).includes(tag)),
   );
