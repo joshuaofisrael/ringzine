@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RingZine</title>
   <id>https://ringzine.com/</id>
-  <updated>2026-11-20T16:14:52.166Z</updated>
+  <updated>2026-11-21T14:33:36.547Z</updated>
   <link rel="self" href="https://ringzine.com/atom.xml"/>
   <link rel="alternate" href="https://ringzine.com/"/>
   <author><name>RingZine</name></author>
+
+  <entry>
+    <title>Kevin Owens finally beat GUNTHER, and then Sami Zayn ruined his night with one kick</title>
+    <id>https://ringzine.com/articles/2026-11-21-smackdown-kevin-owens-beats-gunther-sami-zayn-helluva-kick-november-20/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-21-smackdown-kevin-owens-beats-gunther-sami-zayn-helluva-kick-november-20/"/>
+    <updated>2026-11-21T14:05:00.000Z</updated>
+    <published>2026-11-21T14:05:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>On the 20 November SmackDown, Kevin Owens beat GUNTHER after Finn Bálor&#39;s low blow, then Sami Zayn blindsided him with a Helluva Kick. Jade Cargill also beat Charlotte Flair to earn a WarGames advantage.</summary>
+    <category term="WWE"/>
+  </entry>
+
+  <entry>
+    <title>Team USA lost two fifth-man options in one night, and Cody Rhodes says he will reveal the last one on Raw</title>
+    <id>https://ringzine.com/articles/2026-11-21-team-usa-fifth-member-trick-williams-knee-damian-priest-duggan-cody-rhodes-raw-reveal/</id>
+    <link rel="alternate" href="https://ringzine.com/articles/2026-11-21-team-usa-fifth-member-trick-williams-knee-damian-priest-duggan-cody-rhodes-raw-reveal/"/>
+    <updated>2026-11-21T14:00:00.000Z</updated>
+    <published>2026-11-21T14:00:00.000Z</published>
+    <author><name>RingZine</name></author>
+    <summary>On the 20 November SmackDown, &quot;Hacksaw&quot; Jim Duggan backed out of joining Team USA and Damian Priest hurt Trick Williams&#39;s knee with the ring bell, which WWE says takes him out of Survivor Series. Cody Rhodes will reveal the final member on Monday&#39;s Raw.</summary>
+    <category term="WWE"/>
+  </entry>
 
   <entry>
     <title>Team USA basketball coach Kara Lawson says she is &quot;dead serious&quot; about a WWE match, and has a message for Triple H</title>

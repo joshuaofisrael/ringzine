@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://ringzine.com/articles/2026-11-21-smackdown-kevin-owens-beats-gunther-sami-zayn-helluva-kick-november-20/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:05:00Z</news:publication_date>
+      <news:title>Kevin Owens finally beat GUNTHER, and then Sami Zayn ruined his night with one kick</news:title>
+      <news:keywords>WWE, WWE SmackDown, Kevin Owens, Sami Zayn, Gunther</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://ringzine.com/articles/2026-11-21-team-usa-fifth-member-trick-williams-knee-damian-priest-duggan-cody-rhodes-raw-reveal/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>RingZine</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-21T14:00:00Z</news:publication_date>
+      <news:title>Team USA lost two fifth-man options in one night, and Cody Rhodes says he will reveal the last one on Raw</news:title>
+      <news:keywords>WWE, WWE SmackDown, Survivor Series, Cody Rhodes, Trick Williams</news:keywords>
+    </news:news>
+  </url>
+  <url>
     <loc>https://ringzine.com/articles/2026-11-20-kara-lawson-wants-wwe-match-dead-serious-charlotte-flair-raw-raleigh/</loc>
     <news:news>
       <news:publication>
@@ -70,30 +94,6 @@
       <news:publication_date>2026-11-19T17:00:00Z</news:publication_date>
       <news:title>WWE president Nick Khan names Oba Femi the company&apos;s next big thing, and credits The Undertaker for finding him</news:title>
       <news:keywords>WWE, Oba Femi, Nick Khan, The Undertaker, WWE recruiting</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-19-the-rock-survivor-series-houston-30th-anniversary-pat-mcafee/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:15:00Z</news:publication_date>
-      <news:title>&quot;I would not miss next week for the world&quot;: The Rock says he is coming to Survivor Series in Houston</news:title>
-      <news:keywords>WWE, The Rock, Survivor Series, WarGames, Pat McAfee</news:keywords>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://ringzine.com/articles/2026-11-19-bandido-beats-hangman-page-continental-classic-blue-league-dynamite-november-18/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>RingZine</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-19T14:10:00Z</news:publication_date>
-      <news:title>Bandido beats his own trios partner Hangman Page with the 21 Plex to open the Continental Classic Blue League</news:title>
-      <news:keywords>AEW, AEW Dynamite, Bandido, Hangman Adam Page, Continental Classic</news:keywords>
     </news:news>
   </url>
 </urlset>
