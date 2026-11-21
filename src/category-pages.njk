@@ -6,6 +6,7 @@ pagination:
   addAllPagesToCollections: true
 permalink: "/category/{{ desk.slug }}/"
 layout: layouts/section.njk
+updatedAt: 2026-11-21
 ---
 {% set stories = collections.posts | whereCategory(desk.name) %}
 {% set emptyNote = "No story has been published in " ~ desk.name ~ " yet." %}

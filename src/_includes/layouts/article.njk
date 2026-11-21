@@ -38,7 +38,7 @@ layout: layouts/base.njk
     {% set imageLoading = "eager" %}
     {% set imagePriority = "high" %}
     {% include "partials/picture.njk" %}
-    <figcaption><span class="figure-ai">AI generated</span> <a class="figure-source" href="{{ '/image-policy/' | url }}">Source</a></figcaption>
+    {% include "partials/image-policy-caption.njk" %}
   </figure>
   {% endif %}
   {% include "partials/story-figure.njk" %}

@@ -2,16 +2,17 @@
 layout: layouts/base.njk
 kind: home
 permalink: /
-updatedAt: 2026-10-27
+updatedAt: 2026-11-21
 ---
 <header class="masthead photo-hero">
-  <div class="photo-hero-media">
+  <figure class="photo-hero-media">
     {% set photo = site.homePhoto.src %}
     {% set imageAlt = site.homePhoto.alt %}
     {% set imageLoading = "eager" %}
     {% set imagePriority = "high" %}
     {% include "partials/photo.njk" %}
-  </div>
+    {% include "partials/image-policy-caption.njk" %}
+  </figure>
   <div class="photo-hero-shade" aria-hidden="true"></div>
   <div class="wrap hero-grid">
     <div class="hero-copy">
@@ -31,18 +32,22 @@ updatedAt: 2026-10-27
   <h2 id="desks-heading" class="section-heading">{% set iconName = "batteries" %}{% include "partials/section-icon.njk" %} Promotions</h2>
   <div class="desk-list desk-photo-list">
     {% for item in site.categories %}
-    <a class="desk-card desk-photo-card" href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">
+    <article class="desk-card desk-photo-card">
       <figure class="desk-photo">
-        {% set photo = item.photo %}
-        {% set imageAlt = item.photoAlt %}
-        {% set imageLoading = "lazy" %}
-        {% set imagePriority = false %}
-        {% include "partials/photo.njk" %}
+        <a href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">
+          {% set photo = item.photo %}
+          {% set imageAlt = item.photoAlt %}
+          {% set imageLoading = "lazy" %}
+          {% set imagePriority = false %}
+          {% include "partials/photo.njk" %}
+        </a>
+        {% include "partials/image-policy-caption.njk" %}
       </figure>
-      <span class="desk-card-top">{% set iconName = item.slug %}{% include "partials/section-icon.njk" %}<strong>{{ item.name }}</strong></span>
-      <span class="desk-photo-copy">{{ item.description }}</span>
-      
-    </a>
+      <a class="desk-card-link" href="{{ ('/topics/' ~ item.slug ~ '/') | url }}">
+        <span class="desk-card-top">{% set iconName = item.slug %}{% include "partials/section-icon.njk" %}<strong>{{ item.name }}</strong></span>
+        <span class="desk-photo-copy">{{ item.description }}</span>
+      </a>
+    </article>
     {% endfor %}
   </div>
 </section>
