@@ -20,7 +20,7 @@ test("body images land after the requested paragraphs and stay lazy", () => {
   assert.match(out, /src\/assets\/images\/sample-cars-cabin\.avif/);
   assert.match(out, /Photoreal image slot/);
   assert.doesNotMatch(out, /AI-generated photograph/);
-  assert.match(out, /<a class="figure-source" href="\/image-policy\/">Source<\/a>/);
+  assert.match(out, /<a class="figure-ai" href="\/image-policy\/">AI generated<\/a>/);
   assert.doesNotMatch(out, /<img /);
   const port = out.indexOf("sample-cars-port");
   const three = out.indexOf("<p>Three</p>");
@@ -33,7 +33,7 @@ test("body images land after the requested paragraphs and stay lazy", () => {
   assert.match(ready, /height="675"/);
   assert.match(ready, /loading="lazy"/);
   assert.doesNotMatch(ready, /AI-generated photograph/);
-  assert.match(ready, /<a class="figure-source" href="\/image-policy\/">Source<\/a>/);
+  assert.match(ready, /<a class="figure-ai" href="\/image-policy\/">AI generated<\/a>/);
   assert.doesNotMatch(ready, /fetchpriority/);
 
   const captioned = renderAiFigure(
@@ -42,7 +42,7 @@ test("body images land after the requested paragraphs and stay lazy", () => {
     { ready: true },
   );
   assert.doesNotMatch(captioned, /Quiet street, no people in frame/);
-  assert.match(captioned, />Source<\/a>/);
+  assert.match(captioned, /<a class="figure-ai" href="\/image-policy\/">AI generated<\/a>/);
   const hidden = renderAiFigure(
     { ...picture("fixture-hero"), caption: "AI-generated photograph" },
     "/",

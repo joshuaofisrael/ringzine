@@ -1,0 +1,14 @@
+{% if post.data.hero and post.data.hero.src %}
+<figure class="story-card-thumb-figure{% if not (post.data.hero.src | imageFilesReady) %} is-slot{% endif %}">
+  <a class="story-card-thumb" href="{{ post.url }}" aria-hidden="true" tabindex="-1">
+    {% set srcBase = post.data.hero.src %}
+    {% set imageAlt = post.data.hero.alt %}
+    {% set imageWidth = 320 %}
+    {% set imageHeight = 180 %}
+    {% set imageLoading = "lazy" %}
+    {% set imagePriority = false %}
+    {% include "partials/picture.njk" %}
+  </a>
+  {% include "partials/image-policy-caption.njk" %}
+</figure>
+{% endif %}

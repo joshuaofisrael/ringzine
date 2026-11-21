@@ -1,13 +1,13 @@
 ---
-title: "How a WarGames match works"
+title: "How a WWE WarGames match ends: pinfall or submission once everyone is in"
 date: 2026-11-04
 publishAt: "2026-11-04T11:00:00Z"
-updatedAt: 2026-11-04
+updatedAt: 2026-11-21
 category: WWE
 status: confirmed
 label: analysis
-summary: "WarGames puts two teams inside one cage built over two rings. Wrestlers enter on a timer, one side gets a numbers advantage, and the real match starts only when everyone is in. WWE's version has no roof and allows pinfalls."
-description: "WarGames rules explained: two rings, one cage, staggered entries, the Match Beyond, and how WWE's version differs from the original."
+summary: "A WWE WarGames match puts two rings inside one steel cage. Wrestlers enter on a clock, and a pinfall or a submission can end it only after everyone is inside. WWE printed that version for Survivor Series 2026."
+description: "WarGames ends on a pinfall or a submission, but only after every wrestler is in the cage. WWE's 2026 clock is five minutes, then three."
 tags:
   - WarGames
   - Survivor Series
@@ -19,43 +19,52 @@ hero:
   width: 1280
   height: 720
 sources:
-  - title: "WarGames match"
-    url: "https://en.wikipedia.org/wiki/WarGames_match"
-    publisher: "Wikipedia"
-    date: 2026-11-01
-  - title: "Survivor Series"
-    url: "https://www.wwe.com/shows/survivorseries"
+  - title: "Survivor Series: WarGames 2026, including the current rules"
+    url: "https://www.wwe.com/shows/survivor-series-wargames/2026"
     publisher: "WWE"
-    date: 2026-11-01
+    date: 2026-11-21
+  - title: "The complete history of WarGames"
+    url: "https://www.wwe.com/classics/complete-history-wargames"
+    publisher: "WWE"
+    date: 2012-09-18
+  - title: "WarGames matches to headline Survivor Series for the first time"
+    url: "https://www.wwe.com/shows/survivor-series-wargames/article/survivor-series-wargames-2022-boston"
+    publisher: "WWE"
+    date: 2022-09-19
 ---
 
-WarGames is a team match fought inside one long steel cage that covers two rings placed side by side. It was created by Dusty Rhodes in 1987, and WWE now stages it every year at [Survivor Series](https://www.wwe.com/shows/survivorseries). The short version: wrestlers enter one at a time on a timer, one team gets a temporary numbers advantage, and the match can only be won once every entrant is inside. The history below follows the [Wikipedia summary of the match](https://en.wikipedia.org/wiki/WarGames_match).
+**A WWE WarGames match is won by pinfall or submission, and only after every wrestler is inside.** [WWE's Survivor Series: WarGames 2026 page](https://www.wwe.com/shows/survivor-series-wargames/2026) says two rings sit inside one steel cage. One wrestler from each team starts. After five minutes, one more wrestler enters from one of the two teams. Every three minutes after that, another wrestler enters, and the teams take turns until the cage is full. There are no disqualifications, so a wrestler may bring a weapon in. The match itself starts when the last person is in. It then goes on until one team gets a pinfall or a submission. RingZine rechecked that page on 21 November 2026.
 
-## The cage
+## The clock WWE is using this month
 
-The cage covers both rings but not the ringside floor. Doors sit at opposite far corners, near where each team waits, so the sides cannot brawl before they enter. The original Jim Crockett Promotions and WCW cage had a roof. WWE's cage does not.
+WWE prints the same rules paragraph for both WarGames matches on the 2026 page. The first gap is five minutes. Every gap after that is three minutes. The page does not say which team sends the third person. It says one of the two teams does, and then the sides alternate.
 
-## The entry order
+That clock is not the original one. [WWE's history of WarGames](https://www.wwe.com/classics/complete-history-wargames), published 18 September 2012, says the first two wrestlers fought for five minutes. A coin toss decided which team would be a wrestler short. That team waited two minutes before it could send someone in. The sides then alternated until everyone was inside. Only then, the history page says, did WarGames truly begin.
 
-1. One member of each team starts in the cage.
-2. After five minutes, a second member of one team enters, giving that side a two on one advantage.
-3. Two or three minutes later, a member of the other team enters to even it up.
-4. Entries keep alternating on the clock, so the advantage team is always briefly up a body.
+## How the original finish differed
 
-Which team gets the advantage has been decided in different ways: a coin toss, preliminary matches in the weeks before, or a series of singles matches. Traditionally the villains end up with it, which builds sympathy for the other side.
+The 2012 history calls the early match The Match Beyond. The cage over the two rings had a roof. A team won when someone submitted or surrendered. The page does not list a pinfall as a way to win those early matches.
 
-## The Match Beyond
+WWE dates the match to Jim Crockett Promotions in 1987. The first one, the history page says, was on 4 July 1987 at the Omni Coliseum in Atlanta, during the Great American Bash tour. Dusty Rhodes was in that match, on the team opposite the Four Horsemen. The page does not say he invented it.
 
-Once every wrestler is inside, the phase known as the Match Beyond begins. In the original rules there were no pinfalls, no count outs and no disqualifications: a team won only when an opponent submitted, surrendered or could not continue. Later WCW versions, and WWE's version today, allow a pinfall to end it.
+Pinfalls came later. The same history page says the 1998 edition allowed them, and that Diamond Dallas Page pinned Stevie Ray.
 
-WWE adds one more rule: if a wrestler escapes the cage, their whole team is disqualified. That is why you will see wrestlers climbing the walls but rarely going over.
+## What changed when WWE put the match on its own show
 
-## A short history
+On 19 September 2022, [WWE announced](https://www.wwe.com/shows/survivor-series-wargames/article/survivor-series-wargames-2022-boston) that Survivor Series would hold WarGames matches for men and for women. That was the first time the match was on a WWE branded event. The show was set for 26 November 2022 at TD Garden in Boston. The announcement said a steel cage would surround two rings, that one member of each team would start, and that more wrestlers would enter every few minutes. Once everyone was in, a pinfall or a submission could end it. It did not give the five minute and three minute clock that the 2026 page now prints.
 
-The first WarGames match took place in 1987 at The Omni in Atlanta during the Great American Bash tour, billed as War Games: The Match Beyond. WCW kept it going through the 1990s, mostly at Fall Brawl. After WWE bought WCW's assets in 2001 the match disappeared until 2017, when NXT revived it at TakeOver: WarGames. In 2022 WWE moved it to the main roster and rebranded its November event as Survivor Series: WarGames.
+The 2022 announcement and the 2026 page do not mention a roof. The roof is in the 2012 account of the original cage, not in the rules WWE is publishing for this month's show.
 
-AEW runs its own version, Blood and Guts, which keeps the roof and the no pinfall rule from the original. We explained it in [how an AEW Blood and Guts match works](/articles/2026-10-30-how-aew-blood-and-guts-match-works/).
+## The matches set for 28 November
 
-## What to watch for
+[WWE's 2026 page](https://www.wwe.com/shows/survivor-series-wargames/2026) says Survivor Series: WarGames is Saturday 28 November at Daikin Park in Houston. It streams at 6 p.m. ET and 3 p.m. PT on ESPN, on the ESPN App, with the Unlimited Plan. The page lists The Bloodline against The 946. That is the challenge Roman Reigns made on Raw, which RingZine covered in [the Raw segment recap](/articles/2026-11-10-roman-reigns-war-games-challenge/).
 
-Count the entries. The team with the advantage has its best window just before the last entrant arrives, and the final entrant of the disadvantaged team often decides the night. Also watch for weapons: with no disqualifications, whatever comes into the cage stays in play.
+The same page lists Charlotte Flair, Stephanie Vaquer, Alexa Bliss, Tatum Paxley and Bayley against Fatal Influence, Jade Cargill and Michin. How that match was made is in the [13 November SmackDown results](/articles/2026-11-14-smackdown-results-november-13-2026-womens-wargames-set/).
+
+A third match on the page is not WarGames. Women's World Champion Liv Morgan is booked to defend against Becky Lynch.
+
+## How the finish compares
+
+[AEW Blood and Guts](/articles/2026-10-30-how-aew-blood-and-guts-match-works/) also uses two rings under one cage. On the rules AEW announced in 2020, that match ends only when someone submits or surrenders. [A Last Man Standing match](/articles/2026-10-29-how-a-wwe-last-man-standing-match-ends/) is usually two people, and it ends when someone cannot beat a count of 10. WarGames, on the 2026 WWE page, needs the full field in the cage first, and then a pinfall or a submission. More WWE reporting is on the [WWE desk](/topics/wwe/).
+
+Checked 21 November 2026 against WWE's Survivor Series: WarGames 2026 page, the 18 September 2012 history, and the 19 September 2022 announcement.
