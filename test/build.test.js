@@ -44,7 +44,7 @@ test("RingZine production build", { timeout: 120000 }, () => {
   const out = path.join(root, "_site");
   const read = (f) => fs.readFileSync(path.join(out, f), "utf8");
   assert.equal(read("CNAME").trim(), "ringzine.com");
-  assert.equal(read("ads.txt").trim(), "google.com, pub-5681559774142917, DIRECT, f08c47fec0942fa0");
+  assert.doesNotMatch(read("ads.txt"), /pub-5681559774142917/); // AdSense detached 21 Nov 2026 until the account is approved (see seo-central/site-seo-rules.md). Do not re-add.
   assert.match(read("robots.txt"), /User-agent: Mediapartners-Google\r?\nAllow: \//);
 
   const html = walk(out).filter((f) => f.endsWith(".html"));
